@@ -1,0 +1,1268 @@
+    Fix estetico, fondo para overlay de cuadro-actual
+
+    Added cuadroactual layer
+
+    agregar shortcuts locales a la ventana
+
+    Cambios esteticos menores. Borde en iconos de zoom, y label frame actual
+
+    Fix en timer. Servicio teclas
+
+    fix timeline
+
+    Incluyendo slider para futuro switch vivo/timeline y numero de frame actual
+
+    Dialogo de Crear Proyecto, fixes en dialogos de Save/Open
+
+    Fix en estilos de cursor para bug, cuando cursor esta dentro de la seleccion
+
+    Make flashing great again
+
+    Estilos para overlay cuando se saca foto
+
+    Fixeando aspecto de timeline y cursor
+
+    Correct teardown of huayra-countdown
+
+    Delete unused variable
+
+    Ahora el timer tiene un countdown!
+
+Merge: 88d25a2 65dfb50
+
+    Merge del timeline, package-lock sin actualizar
+
+    Arrastrar y soltar selección
+
+    Borrando código en desuso
+
+    Timeline nuevo!
+
+    Timeline nuevo!
+
+    Update dependencies
+
+    chau chau electron
+
+    Trabajo inicial sobre el nuevo timeline
+
+    indentation fix
+
+    Título mejorado (y marca cuando hay cambios sin guardar)
+
+    Estilos para sliders
+
+    Haciendo andar de nuevo la marca de cuando estás arrastrando capturas
+
+Merge: 7ff937e 4257d0f
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+    Acomodando iconos en tabs
+
+    Borando cosas viejas
+
+Merge: 5f69006 741a9f9
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+    Color de fondo de timeline interfiere en visibilidad de scrollbar
+
+    Ahora puedo volver atrás
+
+    Haciendo andar las pestañas
+
+    Indicador de tiempo aparece si se activa el temporizador
+
+    Interfaz rudimentaria para Timer
+
+    Mergeando boton de timer, ahora funciona
+
+    Added timed auto-capture prototype
+
+    Remove tmpdir after encoding
+
+    Iconos en zoom slider, detalles en timeline cuando seleccionamos cuadros
+
+    Preview usa carpeta temporal con links simbólicos! (Aún no la borra)
+
+    Borde seleccion y probable cagada de package.json
+
+    Ahora funca la preview!
+
+    El preview es cancelable!
+
+    Borrar la vieja versión de stopmotion del tree
+
+    edited the index
+
+    update ember version
+
+    Use any semver-compatible version
+
+    Added height to the streamed video
+
+    fix typo
+
+    fix typo
+
+    Primera prueba de previsualización en la interfaz nueva
+
+    Target only electron 1.4.0
+
+    Fix bug en el botón de mostrar configuración
+
+    Mayor espesor posible en la grilla y ocultar los controles si no se ven
+
+    Sliders for all camera controls
+
+    writeFlipped checkbox funcionagit diff @
+
+    Quitado el changeset de huayra-control-camara
+
+    Fix en huayra-cebolla y quitados los botones de aplicar
+
+Merge: 46b892a 4d43c7f
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+    Checkbox para FlipXY real
+
+    Zoom funcionall
+
+    Slider para zoom de pantalla
+
+    Se puede sacar la foto invertida en el eje X o Y :D!!
+
+    Flip combinado
+
+Merge: 400c846 7a66698
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+    FlipX e Y en visor. WIP. Incluyo Bower.json
+
+    added ui-ember-slider to the bower components
+
+    Boton borrar cuadros seleccionados. Cambios cosméticos, el toggle del boton principal (ej: Ver Configuracion) queda hundido cuando debe.
+
+    Boton de borrar cuadros. Marca sobre el cursor para que se vea bonito
+
+    Detalles cosméticos, eliminè barras de scroll por overflow en sidebar, acomodé textos informativos.
+
+    Embelleciendo los controles de Capa de Cebolla. Centrado de imagene en timeline. Embelleciendo el cursor. Ajustando posicion de nota-derecha.
+
+    Actualizando package.json con ui-ember-slider
+
+    Agregue un slider. Usando ui-ember-slider
+
+    Preferencias ahora usa Sidebar. Botones de flipXY (no funcionales). Ancho de cuadro fijo en timeline
+
+    Estetizando un poco
+
+    Agregado feedback visual para el cambio de modo de arrastre
+
+    Fix en el dropdown
+
+    Coloreando y poniendo bonito. Agregado dropdown para modo de edicion
+
+    Otra vez alineando grilla y capas. Botones de insertar y reemplazar (primer intento)
+
+    Ahora capturo la foto cuando se hace click sobre el cursor
+
+    Cambio estético al timeline
+
+    Mofidicaciones sobre el comportamiento del timeline
+
+    Agregado el botón de guardar y se posiciona el cursor al final del timeline al cargar el proyecto
+
+Merge: 28a85db 741bd1c
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+    Alineada grilla, capas de cebolla y video
+
+    Grilla y onionskin deshabilitados por defecto al editar
+
+    Deshabilitar livereload en win32
+
+    Reparado el seleccionar cámara, el onionskin y agregado un tamaño mínimo de pantalla
+
+    Arreglando el centrado de la pantalla
+
+    Aplicamos Flex para organizar los espacios. Estableci algunos minimos y maximos de ancho y altura. Desgraciadamente el espacio entre cuadros vuelve a aparecer en el timeline. La vista de camara se centra cuando oculto panel de configuracion :)
+
+    Botones toggleables y se pueden ver los controles
+
+    Autoscale para el video y opciones. Arreglada la grilla.
+
+    Eliminado espacio entre cuadros en el timeline. Agregado Panel de Propiedades.
+
+    Implementados lso toggle de mostrar/ocultar grilla, timeline, etc
+
+    Video canvas se re-escala. Estilos de Timeline.
+
+    Trabajando en la interfaz: tema Liso, y cambios en layout de botones
+
+    Logo nuevo
+
+    Added development scripts
+
+    Recargar los controles para chequear si algo externo los deshabilita
+
+    Reemplazando electron-rebuild por un script
+
+    Ahora se pueden reordenar las cosas en el editor
+
+    Progreso moviendo código de las pruebas de la cámara al editor real
+
+    Evitar que la cámara quede frenada al cambiar de ruta
+
+    Agregada traducción de los controles de la cámara
+
+    Me tiene harto el warning de que me falta un ;
+
+    Stop sharing on leave test route
+
+    Agregando start y stop al servicio de compartición de cámaras
+
+    Fix en el test de compartición de cámaras
+
+    Cursor y timeline funcionando con drag&drop!
+
+    Terminando de implementar las funciones para leer y guardar proyectos.
+
+    Agregando de vuelta el video de fallback
+
+    Implementación en proceso del drag&drop en el timeline
+
+    Capturas y cursor draggeables
+
+    Cursor básico, todavía no se puede mover porque no encontré una manera elegatne de recibir los eventos de keyDown
+
+    Cambios mayores en la capa de cebolla y el manejo del timeline
+
+    Usar el hostname en la lista de servers también
+
+    Usar hostnames para conectarse a las instancias remotas
+
+    Mejoras en los browser de instancias remotas de prueba
+
+    Unload del servicio de bonjour para livereload
+
+    Componentes básicos para listar las instancias de huayra-stopmotion en la red
+
+    Comenzando a implementar la vista de edición de un proyecto.
+
+    Implementación inicial y rudimentaria del discovery
+
+    Agregado bonjour como dependencia para el descubrimiento automático a implementar
+
+    El tag de la fakeCam se crea al crear la cámara
+
+    Reparando los tests del servicio de compartición
+
+    Agregado el server de webcams
+
+Merge: fa86c8a b06f0cf
+
+    Merge branch 'webapis-webcam' into develop
+
+    Realtime es mejor que hacer el cálculo a mano
+
+    Tweaks de los codecs elegidos
+
+    una mejor api para el render y preview de videos
+
+    MediaSource preview y pixbuf para el xml
+
+    Creando un botón para abrir proyectos y mejorando la ruta de creación de proyectos.
+
+    Pedir una cámara idealmente HD
+
+    
+
+    No está implementado en la versión de electron del repo, por lo que todo el branch resulta poco útil todavía, ya que
+
+    hacer videos sólo de 640x480 cuando las webcams permiten mucho más me parece muy triste
+
+    No está implementado en la versión de electron del repo, por lo que todo el branch resulta poco útil todavía, ya que
+
+    hacer videos sólo de 640x480 cuando las webcams permiten mucho más me parece muy triste
+
+    hacer videos sólo de 640x480 cuando las webcams permiten mucho más me parece muy triste
+
+    La grilla y el onionskin parecen funcionales. Además ahora saca fotos!
+
+    Cómo llegó eso acá?
+
+    Puedo cambiar de cámaras y anda la fakeCam
+
+    Primeros retazos del rework
+
+    Typo: reopen modifica la clase y extend crea una nueva
+
+    Se repite la escena en el preview, todos el intervalo de selección es [a;b) ahora (como slice de la stdlib)
+
+    Forma rudimentaria de reportar el progreso
+
+    Preview básica
+
+    Thumbnails en jpeg y script para generar un video de thumbnail
+
+    Eliminando tests sin implementar.
+
+Merge: fce4d3b 632f191
+
+    Merge branch 'feature/flujo-de-navegacion' into develop
+
+    Reparando tests para que funcionen incluso si no se corren desde electron.
+
+    Terminando el formulario de creación de proyectos y armando el formato inicial de archivo.
+
+    Bugfixes en la capa de cebolla
+
+    Mantener la grilla al cambiar de resolución de la cámara
+
+    2 frames por foto en el script de melt
+
+    Bugfix de la capa de cebolla (NO SE PUEDE DIVIDIR POR 0)
+
+    Páginas de prueba de la webcam y sus overlays!
+
+    Los formularios se ven un poco mejor
+
+    Controles funcionales de la cámara
+
+    Controles básicos de la cámara (muestran los valores)
+
+    Controles básicos de la grilla y la capa de cebolla
+
+    Implementando el selector de directorio dentro de electron para la creación de proyectos.
+
+    Implementando el formulario para crear un nuevo proyecto.
+
+    Comenzando a implementar el formulario para crear proyecto.
+
+Merge: 75ae1c4 c120285
+
+    Mergeado el onion-skin
+
+    Modificando mockup de camara para que siga funcionando en browsers/no electron.
+
+    Modificando .gitignore para que incluya los archivos .png de prueba.
+
+    Demo de la grilla en la página de debug
+
+    Agregando capturas de pantalla de ejemplo.
+
+    Implementada la grilla básica
+
+Merge: bc4a9cf 8859915
+
+    Me sincronizo con master
+
+    La capa de cebolla de encarga de tomar los frames que considera necesarios
+
+    Prueba concepto de generar XML de mltframework
+
+    Uso menos la cámara estando en segundo plano
+
+    
+
+    Por alguna razón requestAnimationFrame trababa todo en mi pc
+
+    Por alguna razón requestAnimationFrame trababa todo en mi pc
+
+    Cebolla en una capa aparte (en un canvas aparte)
+
+    Implementando dialogo modal de confirmación.
+
+    Agregando ember-remodal y creando el componente para confirmar salir del proyecto sin guardar.
+
+    Creando ruta para mostrar y probar algunos componentes.
+
+    Arreglo menor para que los tests funcionen.
+
+    Commit inicial para hacer onion-skin
+
+    Implementación básica del resource manager (con registro de recursos)
+
+    Inicio del manager de recursos
+
+    Fixeada la cámara de mentira
+
+    Ajustando timeline.
+
+    Ajustando el tamaño de cuadros en el timeline.
+
+    Ahora se pueden crear y borrar varios huayra-camara
+
+Merge: b6645b8 381268e
+
+    Mergeando basic-webcam
+
+    Incluir los pngs de la carpeta imágenes
+
+    El programa guarda las capturas y funciona sin los módulos opcionales
+
+    La fakecam ahora es decente!
+
+    Cambios en la fakeCam (abandonados)
+
+    Se puede cambiar de cámara (y hay camara de prueba)
+
+    Haciendo que se pueda mover el timeline usando arrastrar y soltar.
+
+    Fijando la versión de electron.
+
+    Agregando límites al tamaño de ventana.
+
+    Creado el componente huayra-camara
+
+    Mejorando el componente timeline para que se puedan seleccionar y eliminar cuadros.
+
+    Selector de cámaras
+
+Merge: 738eb90 dbde0dd
+
+    Merge remote-tracking branch 'origin/develop' into basic-webcam
+
+    Actualizando el video fallback.
+
+    La webcam anda (por lo menos)
+
+    Moviendo electron-rebuild al listado de dependencias opcionales.
+
+    Agregadas dependencias nativas
+
+    Ignorando archivos .png
+
+    Modularizando el timeline.
+
+    Haciendo que las capturas de video funcionen tanto en electron como en el navegador.
+
+    Creando rutina para capturar cuadros del video de prueba.
+
+    Creando el layout inicial para la pantalla de composición.
+
+    Haciendo que la cámara se inicie solo cuando se ingresa a la ruta principal y creando una cámara de prueba.
+
+    Haciendo que la aplicación se pueda lanzar y utilizar desde chrome.
+
+    Agregando un servicio básico para poder habilitar livereload en electron.
+
+    Integrando electron closes #14
+
+    Creando makefile inicial #14
+
+    Agregando métodos para completar la API con las cámaras web.
+
+    Creando servicio para representar cámaras y el estado inicial de carga.
+
+    Reparando tests.
+
+    Comenzando a crear el layout inicial.
+
+    Instalando semantic-ui #13
+
+    Mejorando README para incluir image de status de travis #13
+
+    Instalando mirage #13
+
+    Creando la estructura inicial de aplicacion ember #13
+
+    Moviendo archivos de la version anterior.
+
+    Creando directorio para almacenar archivos de la version anterior (de referencia)
+
+    Update README.md
+
+    Fix typo del commit anterior
+
+    Quitado el node-main
+
+    Agregado WM_CLASS
+
+    update
+
+    update
+
+    update
+
+    Actualizando readme.
+
+    Reiniciando la conexión entre items de menú y callbacks. Closes #11
+
+    typo
+
+    quito build deps
+
+    version 0.5.1.1
+
+    huayra-stopmotion: 0.5.1
+
+    mensaje innecesario
+
+    ng-show para la ventana principal
+
+    Actualizo changelog. El menu  lista las sesiones recientes.
+
+    Quito pantalla inicial, asi directamente uno comienza a trabajar. Ademas, al 'cambiar' de pantalla (al abrir una sesion nueva, al abrir una sesion existente o al cerrar) nos consulta si queremos guardar los cambios antes de continuar
+
+    Agrego dos partials
+
+    actualizando a la version 0.5.0
+
+    release 0.5.0
+
+    arreglo incremento de version
+
+    habilitando 'guardar' incluso cuando se inicia el proyecto por primera vez.
+
+    arreglo menor en el selector de cámara activa.
+
+    arreglo menor.
+
+Merge: 167bee2 17e90c4
+
+    Merge branch 'huayra-version-stable'
+
+    revirtiendo cambios.
+
+Merge: e726874 366f78e
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    arreglo menor.
+
+    actualizando el paquete.
+
+    release 0.4.24
+
+    Arreglada la capa de dibujo (no recibía eventos)
+
+    Update README.md
+
+    actualizando el paquete.
+
+    actualizando version
+
+    actualizando version
+
+    actualizando el tamano de ventana
+
+    Agregada la dependencia bluebird para el empaquetado y cambiada la versión
+
+    Changelog
+
+    Quitado el bitrate de salida para evitar errores exportando con un fps bajo
+
+    Corregida llamada a avconv, ahora genera un video con los fps correctos
+
+    Changelog
+
+    Agregada la dependencia: bluebird
+
+    Agragando opción al avconv
+
+    Esperando a que se graben las imágenes antes de exportar el video
+
+    Quitada una dependencia y actualizado el changelog
+
+    Quitada la dependencia fluent-ffmpeg
+
+    Quitada la dependencia de ffmpeg
+
+    Reemplazada fluent-ffmpeg por un mock que usa avconv
+
+    subiendo el archivo bower.json
+
+    actualizando paquete.
+
+    arreglo menor.
+
+    actualizando changelog
+
+    actualizando paquete
+
+    actualizando la url de consulta al ws de versiones.
+
+    reparando rutas para el componente version
+
+    Agregando consulta de última versión a través de un webservice.
+
+    actualizando paquete.
+
+    release 0.4.17
+
+    Reparando la exportacion de videos.
+
+    Arreglos para evitar que se arrastren imágenes o se puedan soltar archivos sobre la ventana de nodewebkit.
+
+    Quitando armado de thumbnails.
+
+    Simplificando la directiva huayra-version.
+
+    actualizando paquete.
+
+    release 0.4.16
+
+    Quitando animaciones de los diálogos.
+
+    cambiando el zindex
+
+    actualizando.
+
+Merge: 6e1e129 94bbcdd
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    arreglo menor.
+
+    cambiando el zindex
+
+    arreglo menor.
+
+    Implementando rutas.
+
+    Arreglos menores.
+
+    modificando la estructura general.
+
+Merge: 31c42ee 4e0d516
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Arreglos menores.
+
+    Comenzando a cambiar la arquitectura de la aplicación.
+
+    arreglo menor.
+
+    Quitando animaciones de los diálogos.
+
+    release 0.4.15
+
+    arreglo menor.
+
+    release 0.4.14
+
+    Ordenando numero de versiones.
+
+    Organizando archivos.
+
+    Quitando la dependencia de bower.
+
+    release 0.4.13
+
+    arreglo menor.
+
+    Comenzando a modularizar componentes.
+
+    release 0.4.12
+
+    arreglo menor.
+
+    agregando manejador de argumentos para abrir proyectos directamente desde consola.
+
+    corrigiendo mime type (no usar text/*** porque la busqueda del icono
+
+    termina buscando text-generic por todos los temas)
+
+    termina buscando text-generic por todos los temas)
+
+Merge: 680340c a70d79e
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    el archivo debe llevar el nombre del paquete
+
+    correccion del formato del archivo control y dependencias
+
+    soporte de mime y asociacion para los archivos .hmotion
+
+    actualizando changelog.
+
+    release 0.4.11
+
+    Agregando un notificador de versión.
+
+    actualizando changelog.
+
+    release 0.4.10
+
+    Generando comandos para automatizar releases.
+
+    Quitando soporte para exportar a mpeg2
+
+    reparando el bug de escalado de gif
+
+    reparando el problema de exportacion de  GIF.
+
+    escondo el paginador
+
+    un cartelito un poco mas practico para reportar errores de videos-no-html5
+
+    mejore un poquito el manejo para verificar si tenemos cam o no
+
+    saco alerts y consolelogs
+
+    Soporta multiples camaras en red. MODO DEBUG, NO PRODUCCION.
+
+    agrego carita del mensaje de error
+
+    si no tenemos camara o la camara no funciona, nos notifica al iniciar la aplicacion.
+
+    changelog
+
+Merge: e75a50d add2c1a
+
+    Merge pull request #5 from digitalh/master
+
+    
+
+    Mas presets. Mejora en thumbs. Implementación de escalado al exportar.
+
+    Mas presets. Mejora en thumbs. Implementación de escalado al exportar.
+
+    Mas presets. Mejora en thumbs. Implementación de escalado al exportar.
+
+    - Nuevos presets de exportación de video: Vimeo 640x480, WebM, MPEG 2,
+
+    XVid4, H264 Sin Pérdida (lento y rápido).
+
+    - Implementación de la opción de escala al exportar (excepto YouTube y
+
+    Vimeo).
+
+    - Mejora en comando de miniaturas.
+
+    XVid4, H264 Sin Pérdida (lento y rápido).
+
+    - Implementación de la opción de escala al exportar (excepto YouTube y
+
+    Vimeo).
+
+    - Mejora en comando de miniaturas.
+
+    - Implementación de la opción de escala al exportar (excepto YouTube y
+
+    Vimeo).
+
+    - Mejora en comando de miniaturas.
+
+    Vimeo).
+
+    - Mejora en comando de miniaturas.
+
+    - Mejora en comando de miniaturas.
+
+    Quitando animaciones diálogos modales.
+
+Merge: 4f03e87 eb529dc
+
+    Merge pull request #4 from digitalh/master
+
+    
+
+    Nuevo preset de exportación YouTube 640x480. Fix de fps en exportación. ...
+
+    Nuevo preset de exportación YouTube 640x480. Fix de fps en exportación. ...
+
+    Nuevo preset de exportación YouTube 640x480. Fix de fps en exportación. Cambios para generar thumnail de la imagen luego de la captura.
+
+    actualizando paquete debian.
+
+    Reparando el bug de las imágenes que aparecían por la mitad.
+
+    Comenzando a implementar promesas en lugar de callbacks.
+
+    actualizando async.
+
+    deshabilitando los selectores de capas anterior y siguiente.
+
+    arreglando el problema del cache de imagenes.
+
+    arreglo en la copia de archivos
+
+Merge: 39d925a a1d566d
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    actualizando paquete.
+
+    agregando archivos de proyecto webstorm.
+
+    input number para cantidad de capas de cebolla atras y adelante
+
+    arreglo menor.
+
+    actualizando paquete debian.
+
+Merge: f37b0b9 f8195d6
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Agregando un indicador de versión.
+
+Merge: 5440a8c 12d846f
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Reparando los bugs relacionados con paths en windows.
+
+Merge: baaa1a9 a2fa313
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+Merge: c95cecd 8410a30
+
+    Agregando nuevos iconos y mostrando el numero de versión
+
+    Reparando el link script para subir huayra-motion al servidor web.
+
+    actualizando el comando upload
+
+    agregando numero de version.
+
+Merge: 79d840c 7365f07
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Reparando el bug raro que impedía dibujar con el canvas invertido.
+
+    Haciendo que la capa de dibujo no aparezca sobre los diálogos.
+
+    Permitiendo ampliar la grilla a un maximo de 100 filas o columnas.
+
+    Reparando el bug en el reproductor de cuadros.
+
+    Aplicando efectos de espejado a la capa cebolla.
+
+    cambiando el titulo de la aplicacion en el readme.
+
+    agregando una captura de pantalla.
+
+    arreglo menor en la resolucion de la camara.
+
+    actualizando paquete debian
+
+    arreglando el dibujado con webcams de poca resolucion.
+
+    log de prueba.
+
+    Creando efectos para espejar el video en vivo.
+
+    Agregando imagen al modo cámara remota.
+
+    Agregando modo dibujado sobre el canvas.
+
+Merge: d0b7617 50f09df
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Ocultando la capa de cebolla cuando no hay cuadros en la animación.
+
+    actualizando paquete
+
+    Reparando el modo cámara remota.
+
+    Borrando archivos que ya no se usan.
+
+    actualizando paquete debian.
+
+    Quitando la etiqueta "modo" y agregando un texto explicando como usar la cámara compartida.
+
+    Evitando que se pueda seleccionar texto en la interfaz.
+
+Merge: 635e107 552e8a5
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Reparando el bug que se producía al exportar proyectos en directorios con espacios.
+
+    actualizando paquete debian
+
+    cambiando la ruta a la imagen temporal de uvccapture en tangopoint.
+
+    actualizando changelog
+
+    habilitando los controles de brillo y contraste en las netbooks tangoPoint.
+
+    Implementando captura de cuadros con uvc.
+
+    Llamando a uvcdynctrl para deshabitar el balance de blancos automático.
+
+    Ajustando la capa imagen_uvc.
+
+    Haciendo que las imágenes del canvas uvc se actualicen cada 2 segundos.
+
+    Mostrando la imagen capturada de uvc capture.
+
+    Mostrando el modo de captura en la interfaz.
+
+    Convirtiendo el modulo Video en un servicio de angularjs.
+
+    creando un atributo modo, para soportar html5 y uvccapture
+
+    Arreglo menor.
+
+    Haciendo que los links de la sección About abran el navegador.
+
+Merge: 11cb33f 445dfaa
+
+    Merge branch 'master' of http://github.com/HuayraLinux/huayra-stopmotion
+
+    probando la invocacion directa a uvccapture
+
+    Reparando el ícono de la aplicación en el taskbar.
+
+    Implementación funcional del modo captura con temporizador.
+
+Merge: a945c51 0f45bcb
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Haciendo la interfaz para auto-capturar cuadros con intervalo.
+
+    actualizando a la version del paquete 0.18
+
+    cambiando arquitectura por "all"
+
+    Agregando autor a copyright
+
+    eliminando archivos -doc.
+
+    Agregando autor a copyright
+
+    eliminando archivos -doc.
+
+    eliminando archivos -doc.
+
+Merge: b515569 00bfbd4
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    cambiando el titulo de huayra-motion en el menu de sistema.
+
+Merge: 3f86af7 ff76cf5
+
+    Merge pull request #1 from fermuch/rewrite-test
+
+    
+
+    Rewrite test
+
+    Rewrite test
+
+    acoplado texto de ayuda a Makefile
+
+    puesta dependencia de nodewebkit en package.json
+
+    node test ahora ejecuta node webkit; creada tarea make test
+
+    Probando parámetros de configuración para la cámara.
+
+    Probando camelot dentro del handler de error de camera.
+
+    Actualizando dependencias para instalar fswebcam, binario que necesita camelot para usar la webcam en tangopoint.
+
+    Agregando mensajes de error cuando no se detecta la cámara.
+
+    arreglo menor. bower hay que instalarlo global.
+
+    mejorando las instrucciones de instalacion
+
+Merge: ab98c4d b4d97e5
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Agregando camelot a la lista de dependencias.
+
+    Mejorando el menú de captura de cuadros con temporizador.
+
+    permitiendo que el pograma se pueda abrir indicando la ruta del proyecto que tiene que abrir.
+
+    Agregando soporte para exportar GIF, reproduciendo un sonido al borrar y creando el dialogo "acerca de ..."
+
+    Borrando capas que ya no se usaban.
+
+    Agregando un cuadro de dialogo para la opción "acerca de ..."
+
+    Mejorando la animación de explosión.
+
+    Agregando animación a la eliminación de cuadros y sincronizando la emisión de cuadros cuando se usa la cámara remota.
+
+    Mejorando el estilo del cuadro actual.
+
+    Haciendo una pausa cuando se captura entre cuadro y cuadro.
+
+    Agregando animaciones cuando se elimina o genera un cuadro.
+
+    Actualizando archivo ignore.
+
+    Reparando la acción "guardar".
+
+    Convirtiendo el menú en un servicio de angulars.
+
+    Arreglo menor en la lista de proyectos recientes.
+
+    Haciendo mas visible el cuadro de animación seleccionado.
+
+    Mejorando la pantalla principal.
+
+    Mejorando el circuito de carga de proyecto y guardado.
+
+    Guardando las imágenes de un proyecto en curso con _ al principio.
+
+    Colocando "sin titulo" en la ventana cuando el proyecto es nuevo.
+
+    Exportando la animación respetando los FPS definidos.
+
+    Implementando la generación de vídeo (ahora funciona con mp4!)
+
+    Implementación inicial de la generación de videos usando ffmpeg.
+
+    Comenzando a implementar el dialogo para exportar videos.
+
+    Agregando dialogo modal para capturar el cierre de la ventana.
+
+    Implementando guardado de proyectos y título de la ventana indicando estado guardado.
+
+    Métodos agregados a la clase proyecto: abrir, agregar y guardar cuadro
+
+    Creando el servicio Proyecto.
+
+    Creando el dialogo modal de confirmación al cerrar proyecto.
+
+    Creando varias de proyecto para el flujo inicial.
+
+    Moviendo código de paneles al nuevo servicio Paneles.
+
+    Clase Preferencias se pasó a un Service de Angular
+
+    Comenzando a modularizar el código relativo a los paneles.
+
+    Mejorando el modulo menú para que exporte una clase como el módulo preferencias.
+
+    Modularizando livereload.
+
+    Identando app.js
+
+    Modularizando filtros y el menú principal.
+
+    Agregando modo estricto a preferencias.
+
+    Identando el archivo índex.html
+
+    Modularizando Preferencias.
+
+    Comenzando a implementar el dialogo para exportar vídeos.
+
+    Cambiando el ícono de borrar cuadro.
+
+    Leer cuadros/imágenes desde la ruta relativa al proyecto
+
+    La carpeta de imágenes de proyecto ahora lleva el mismo nombre que el
+
+    proyecto
+
+    proyecto
+
+Merge: 9f37ea8 b435b63
+
+    Merge branch 'master' of github.com:HuayraLinux/huayra-stopmotion
+
+    Colocando un spinner de prueba a la lista de proyectos.
+
+    Mostrar sólo el nombre de archivo
+
+    Link para abrir proyectos recientes
+
+    Re-armado de lógica para guardar proyectos
+
+    Arreglo del serializador de JSON
+
+    - Clase para manejo de preferencias
+
+    - Guardado de proyectos recientes
+
+    - Guardado de proyectos recientes
+
+    definiendo la ruta de instalacion de los modulos bower.
+
+    Colocando un spinner de prueba a la lista de proyectos.
+
+Merge: 6b708e3 bf012c5
+
+    Merge remote-tracking branch 'origin/proyectos_recientes'
+
+    Mostrar sólo el nombre de archivo
+
+    Link para abrir proyectos recientes
+
+    Re-armado de lógica para guardar proyectos
+
+    Arreglo del serializador de JSON
+
+    - Clase para manejo de preferencias
+
+    - Guardado de proyectos recientes
+
+    - Guardado de proyectos recientes
+
+Merge: 80e291e 80a8a76
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    definiendo la ruta de instalacion de los modulos bower.
+
+    cambiando la ruta de angular-ui porque no estaba cargando
+
+    Arreglando la URL para acceder a compartir la cámara.
+
+    Actualizando el ícono de la aplicación.
+
+Merge: 73f08ef da4c777
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    actualizando la informacion para generar el paquete de huayra
+
+Merge: 8b65361 9c95b95
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    cambiando el link de descarga
+
+    arreglos menores al generar el paquete.'
+
+    actualizando scripts de empaquetado.
+
+    actualizando script para generar el paquete
+
+    Poniendo un límite de 30 cuadros por segundos como máximo.
+
+    Arreglos menores.
+
+    Modificando el atajo para abrir las herramientas de desarrollo. Ahora no requiren de angulars.
+
+Merge: c5fe241 6dbb791
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+    Agregando un botón para abrir las herramientas de desarrollo desde la pantalla principal..
+
+    actualizando informacion de dependencias.
+
+    actualizando
+
+    Creando estructura para generar los paquetes .deb
+
+    Agregando script para instalar dependencias y angular-ui-bootstrap-bower
+
+    Implementando acceso remoto.
+
+    Mejorando el modo remoto para que arme una URL con el hostname y el puerto.
+
+    Agregando opción para reproducir video y controles para controlar los cuadros por segundo.
+
+    Haciendo que el cuadro de animación nuevo aparezca a la derecha del cuadro actual.
+
+    Agregando opción para exportar video en el menú tradicional.
+
+    Cambiando la tecla "backspace" por "x"
+
+    Agregando un botón a la izquierda de cada cuadro para que se puedan borrar cuadros de animación.
+
+    Agregando atajo de teclado para borrar el cuadro actual.
+
+    Quitando los dos paneles que no se utilizaban y agregando opción para salir desde el menú.
+
+    Arreglos menores en la estructura html.
+
+    Reparando el bug del tamaño de las imágenes usando una webcam.
+
+    Agregando la opción 'abrir' en la barra de menú principal.
+
+    Implementando carga de archivos.
+
+    Implementando guardar proyecto.
+
+    Adaptando los layers para que se ajusten al tamaño del contenedor.
+
+    Instalando dependencias faltantes.
+
+    Haciendo configurable el acceso remoto.
+
+    Implementación inicial para compartir camara.
+
+    Agregando tab para previsualizar la animación.
+
+    Comenzando a implementar el dialogo para abrir proyectos y haciendo que el cuadro cebolla sea siempre el cuadro seleccionado.
+
+    Mejorando el asistente inicial y modificando los atajos para avanzar de cuadro y reiniciar.
+
+    Quitando barras de scroll en el contenedor de video.
+
+    Reparando el tamaño de las capas sobre el video para que se ajusten automáticamente.
+
+    Implementando livereload.
+
+    Haciendo que la grilla sea semi invisible al principio.
+
+    instalando gaze para que la aplicacion soporte livereload.
+
+    Quitando referencias a google fonts.
+
+    Mejorando la pantalla de ayuda.
+
+    Agregando una captura de pantalla nueva
+
+    Deshabilitando live-reload para hacer el deploy.
+
+    Reparando el overlay de grilla con filas y columnas.
+
+    Agregando un botón para mostrar u ocultar la ayuda.
+
+    Mejorando la pantalla inicial.
+
+    Comenzando a crear el asistente inicial en reemplazo del panel de carga inicial.
+
+    Agregando un botón para mostrar u ocultar el panel lateral.
+
+    Agregando livereload
+
+    Agregando un fondo al selector de paginas en la linea de tiempo.
+
+    Comenzando a crear la capa de grilla con filas y columnas variables.
+
+    Reemplazando slides angular por slides traducionales y moviendo el deslizador de capa cebolla a otra sección.
+
+    Mostrando los links de descarga en el archivo makefile.
+
+    Automatizando la forma de subir versiones nuevas al servidor.
+
+    Mejorando el archivo README.
+
+    Arreglos menores en los tabs.
+
+    Adaptando el tamaño de la ventana principal.
+
+    Haciendo que la barra de controles para capturar cuadros se adapte al tamaño del contenedor.
+
+    Quitando el header de la aplicación.
+
+    Reparando el paginador cuando la ventana cambia de tamaño.
+
+    Arreglos para hacer que el video se adapte al tamaño del contenedor.
+
+    Habilitando la barra depuracion.
+
+    Posicionando el paginador de la linea de tiempo en una zona visible de pantalla.
+
+    Commit inicial desde bitbucket.
+
+    Initial commit
+

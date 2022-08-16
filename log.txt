@@ -1,0 +1,3360 @@
+commit a77dd5fb1437454ac16a3f26412e37971f03fbce
+Author: malefico <malefico3d@gmail.com>
+Date:   Thu Nov 16 15:06:51 2017 -0300
+
+    Fix estetico, fondo para overlay de cuadro-actual
+
+commit f470d28220c53edd20d7993a6a101ad008d7bfea
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Nov 14 16:02:24 2017 -0300
+
+    Added cuadroactual layer
+
+commit 63298c7d02f398a46e7ad7c3e7b54da1a33cf16a
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Nov 14 14:40:21 2017 -0300
+
+    agregar shortcuts locales a la ventana
+
+commit 88a00cbd0dbb468ba5c57375d0773160f9d1c7b8
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Nov 14 12:29:49 2017 -0300
+
+    Cambios esteticos menores. Borde en iconos de zoom, y label frame actual
+
+commit 110a2d7b9f205cff8711b0135136490e6c1c9dfe
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Nov 14 11:56:20 2017 -0300
+
+    Fix en timer. Servicio teclas
+
+commit b246191668bba4be75d9dbb09a56da74005f09f7
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Nov 13 15:27:32 2017 -0300
+
+    fix timeline
+
+commit 650a927d555f2de9a60d7a26e546bc1c01accf86
+Author: malefico <malefico3d@gmail.com>
+Date:   Mon Nov 13 12:32:45 2017 -0300
+
+    Incluyendo slider para futuro switch vivo/timeline y numero de frame actual
+
+commit d2d45979dc2b01952b1820f15a0b9fef7c02ce34
+Author: malefico <malefico3d@gmail.com>
+Date:   Fri Nov 10 14:37:39 2017 -0300
+
+    Dialogo de Crear Proyecto, fixes en dialogos de Save/Open
+
+commit 050aa075f9fb33e1249deff77ebf936309ebef26
+Author: malefico <malefico3d@gmail.com>
+Date:   Thu Nov 9 11:46:33 2017 -0300
+
+    Fix en estilos de cursor para bug, cuando cursor esta dentro de la seleccion
+
+commit c6d629e44ca9bdc76ab370a541beed52c02eb855
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 8 15:16:52 2017 -0300
+
+    Make flashing great again
+
+commit 5c64bc04c8aea78814aa7b2efeb74ad8d8d99e7f
+Author: malefico <malefico3d@gmail.com>
+Date:   Wed Nov 8 14:05:42 2017 -0300
+
+    Estilos para overlay cuando se saca foto
+
+commit 44279ffd7191688c6cc572edf7f13304a7839d06
+Author: malefico <malefico3d@gmail.com>
+Date:   Wed Oct 25 14:25:13 2017 -0300
+
+    Fixeando aspecto de timeline y cursor
+
+commit 0a853284e250f9a808e3803437f719b78169427f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Oct 18 12:47:10 2017 -0300
+
+    Correct teardown of huayra-countdown
+
+commit a161753678e5461b878fe1740cc40f12d49eb73f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Oct 18 12:41:46 2017 -0300
+
+    Delete unused variable
+
+commit 2834f234542d2ea78c09e48289097b6ec1c52388
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Oct 18 12:32:15 2017 -0300
+
+    Ahora el timer tiene un countdown!
+
+commit ecdbe27229b843f854f013c806a1f9285ff69689
+Merge: 88d25a2 65dfb50
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Oct 17 12:54:30 2017 -0300
+
+    Merge del timeline, package-lock sin actualizar
+
+commit 65dfb504152f40c2fc12238e468ab29aedbfb0c0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Oct 17 12:04:42 2017 -0300
+
+    Arrastrar y soltar selección
+
+commit 8fdc7a9179e3ed56e66400400b52e78033caf6ad
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Oct 13 15:59:26 2017 -0300
+
+    Borrando código en desuso
+
+commit 788b68be6818053ac7623590dbfdc816185fc570
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Oct 13 15:22:51 2017 -0300
+
+    Timeline nuevo!
+
+commit bfa489af381a53e4bc0fe1083229342cda615ae4
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Oct 13 15:22:51 2017 -0300
+
+    Timeline nuevo!
+
+commit 88d25a20634588db5667da8a23a79773c385e01a
+Author: malefico <malefico3d@gmail.com>
+Date:   Wed Oct 11 16:11:56 2017 -0300
+
+    Update dependencies
+
+commit b7bb7d37f245eee05b8f495af86a373e345702ea
+Author: malefico <malefico3d@gmail.com>
+Date:   Wed Oct 11 13:02:52 2017 -0300
+
+    chau chau electron
+
+commit e74e2557d2bde4374319c1bb8e56dee97864e533
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Oct 4 16:11:44 2017 -0300
+
+    Trabajo inicial sobre el nuevo timeline
+
+commit b32ae686c9061f58e4ef9724a35f1a005faeca1a
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Oct 4 10:47:46 2017 -0300
+
+    indentation fix
+
+commit 5213c81ffbcd753d4db51e528958e8fa92caf893
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Oct 2 16:24:08 2017 -0300
+
+    Título mejorado (y marca cuando hay cambios sin guardar)
+
+commit c6d0984ee036ca7d47f77124f8c663e6bb94ded0
+Author: malefico <malefico3d@gmail.com>
+Date:   Mon Oct 2 16:13:17 2017 -0300
+
+    Estilos para sliders
+
+commit b9d13f69eb7fc71ba90787980d1feca252225255
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 26 15:33:24 2017 -0300
+
+    Haciendo andar de nuevo la marca de cuando estás arrastrando capturas
+
+commit aa0d0a8ed384ccd0fe47c99bfddf16d3b025dacf
+Merge: 7ff937e 4257d0f
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Sep 26 16:56:40 2017 -0300
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+commit 7ff937e3989ba57c2b4d00dd86553d3feaefc1bf
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Sep 26 16:56:17 2017 -0300
+
+    Acomodando iconos en tabs
+
+commit 4257d0f51df04dc18a429328984e9b0fc36b68ba
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 26 15:17:48 2017 -0300
+
+    Borando cosas viejas
+
+commit b117e0a8214d10416a5d937fddb378366c199f02
+Merge: 5f69006 741a9f9
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Sep 26 15:09:27 2017 -0300
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+commit 5f69006d44631aba60ed85893a43b432a7b46c8d
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Sep 26 15:08:51 2017 -0300
+
+    Color de fondo de timeline interfiere en visibilidad de scrollbar
+
+commit 741a9f9ba2cbb0330b760044ac61c6de412c9bd9
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 26 15:08:28 2017 -0300
+
+    Ahora puedo volver atrás
+
+commit a2ca15205a7c1d0784502b5e806c23676e4e443c
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 26 14:48:27 2017 -0300
+
+    Haciendo andar las pestañas
+
+commit b6504f03197f2d35d67787b9862a4ef6b02446f0
+Author: malefico <malefico3d@gmail.com>
+Date:   Mon Sep 25 16:54:03 2017 -0300
+
+    Indicador de tiempo aparece si se activa el temporizador
+
+commit 8cb7fee38ec5620009bee7ea884c1e6d7a61af96
+Author: malefico <malefico3d@gmail.com>
+Date:   Mon Sep 25 16:29:58 2017 -0300
+
+    Interfaz rudimentaria para Timer
+
+commit 19bf1aaef4a90d253c9bd6cc180e86b1be2a5901
+Author: malefico <malefico3d@gmail.com>
+Date:   Mon Sep 25 16:11:01 2017 -0300
+
+    Mergeando boton de timer, ahora funciona
+
+commit d1b8753da572eb270723d965620959976669599e
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 25 13:34:35 2017 -0300
+
+    Added timed auto-capture prototype
+
+commit 6e0e177e3e5fc621a8057a7eec92b3ab7573acda
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 25 13:12:29 2017 -0300
+
+    Remove tmpdir after encoding
+
+commit bc6ea355e1ec1a3e6ada3dee086d9ae0aa2db98c
+Author: malefico <malefico3d@gmail.com>
+Date:   Fri Sep 22 16:13:17 2017 -0300
+
+    Iconos en zoom slider, detalles en timeline cuando seleccionamos cuadros
+
+commit c95ca134b1c72435200c3bad4e8320bde393f29a
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Sep 22 15:47:09 2017 -0300
+
+    Preview usa carpeta temporal con links simbólicos! (Aún no la borra)
+
+commit 448f1d5250b8d59b83a9e77a8a6f7d6512f548f6
+Author: malefico <malefico3d@gmail.com>
+Date:   Thu Sep 21 15:56:55 2017 -0300
+
+    Borde seleccion y probable cagada de package.json
+
+commit 07e1fb9590d824cd0308e3eb826dea9ad455e4eb
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Sep 21 13:14:56 2017 -0300
+
+    Ahora funca la preview!
+
+commit 1529a48f91e30c77a22e0f58edebe12129c385c2
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 18 11:55:20 2017 -0300
+
+    El preview es cancelable!
+
+commit 5ab1375011295217152e7be61cba5a7d2aba0891
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 18 10:33:07 2017 -0300
+
+    Borrar la vieja versión de stopmotion del tree
+
+commit d1c4b545d2e14b72fbc63c054c63ee1e7945c50c
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Sep 15 13:37:57 2017 -0300
+
+    edited the index
+
+commit 705d0074afa0aad1e0ed98d92c0970db62507375
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Sep 14 15:32:23 2017 -0300
+
+    update ember version
+
+commit 41ad685c3df00a0c28eed266f1350af991545cf0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Sep 14 12:20:49 2017 -0300
+
+    Use any semver-compatible version
+
+commit b5b1e626c71773e98b17e27b31a224a9d57cebcf
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Sep 13 15:14:12 2017 -0300
+
+    Added height to the streamed video
+
+commit 2edca5f75b58aa8ecffff5351e373443e7d567ac
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Sep 13 14:44:09 2017 -0300
+
+    fix typo
+
+commit cfd154ecb8e0076a92c18c875f5f5ebc185d318b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Sep 13 14:44:09 2017 -0300
+
+    fix typo
+
+commit 6e1380ee776841642659d4c044993b2ef0d23785
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 12 15:29:12 2017 -0300
+
+    Primera prueba de previsualización en la interfaz nueva
+
+commit 3deafc8f098bf032a1e89ee8a830cf8a29cee307
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 12 14:36:00 2017 -0300
+
+    Target only electron 1.4.0
+
+commit ed6281b0faf1aabb805ba0f4b9c9262d9ce69747
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 12 14:28:16 2017 -0300
+
+    Fix bug en el botón de mostrar configuración
+
+commit 7c70f3a1613a7002e42e100c17f132aa525acc8c
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 12 12:36:17 2017 -0300
+
+    Mayor espesor posible en la grilla y ocultar los controles si no se ven
+
+commit 81c075dbffc2131d045ea465db3dc22145d02746
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Sep 12 11:49:28 2017 -0300
+
+    Sliders for all camera controls
+
+commit 907cc1f1968be33748521584e71c348c9931490e
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 11 16:20:40 2017 -0300
+
+    writeFlipped checkbox funcionagit diff @
+
+commit c039e48251af59d97703875d428233c146161e66
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 11 16:10:45 2017 -0300
+
+    Quitado el changeset de huayra-control-camara
+
+commit 2cbf7da4c4ad24b9256b304bc87597457f3643e7
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 11 16:01:13 2017 -0300
+
+    Fix en huayra-cebolla y quitados los botones de aplicar
+
+commit 984bbdb7338b6613fa54dcdca276108cc785d608
+Merge: 46b892a 4d43c7f
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Sep 11 15:39:00 2017 -0300
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+commit 46b892afb50fa512932d1946a190acec27d47fae
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Sep 11 15:38:54 2017 -0300
+
+    Checkbox para FlipXY real
+
+commit 4d43c7f935beca1e678e327df69b07aac3dc6360
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 11 15:35:32 2017 -0300
+
+    Zoom funcionall
+
+commit 21601f038d06cb8574c9b03ca20a3e4200953e9c
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Sep 11 15:03:29 2017 -0300
+
+    Slider para zoom de pantalla
+
+commit 758756042fd86be481e7fffc20c17511ad05d696
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Sep 11 12:14:33 2017 -0300
+
+    Se puede sacar la foto invertida en el eje X o Y :D!!
+
+commit 8bbd73daff868178a9d4ccb2606808a39dabcfaa
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Sep 8 16:14:09 2017 -0300
+
+    Flip combinado
+
+commit 649cd9d41f41e5ebace0a4da1c7b433914fb099f
+Merge: 400c846 7a66698
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Sep 8 16:08:31 2017 -0300
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+commit 400c8467833cf77efc37a46122272a2aa6ec6629
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Sep 8 16:08:07 2017 -0300
+
+    FlipX e Y en visor. WIP. Incluyo Bower.json
+
+commit 7a66698a8d77eab665a7fbc69d23259b923af708
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Sep 8 16:00:00 2017 -0300
+
+    added ui-ember-slider to the bower components
+
+commit 04795873bf2eda44893015e1f5725a23697ab75e
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Thu Sep 7 14:51:47 2017 -0300
+
+    Boton borrar cuadros seleccionados. Cambios cosméticos, el toggle del boton principal (ej: Ver Configuracion) queda hundido cuando debe.
+
+commit 69dad426c41b206c2ab4bc8ed05480f90a1d4fbf
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Wed Sep 6 16:30:42 2017 -0300
+
+    Boton de borrar cuadros. Marca sobre el cursor para que se vea bonito
+
+commit 2bf293c032d6171a7305d3b8e461865ff7996c7a
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Tue Sep 5 12:28:50 2017 -0300
+
+    Detalles cosméticos, eliminè barras de scroll por overflow en sidebar, acomodé textos informativos.
+
+commit 024becb289e9c88359c5e9e51452c18446b624d1
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Sep 4 15:38:43 2017 -0300
+
+    Embelleciendo los controles de Capa de Cebolla. Centrado de imagene en timeline. Embelleciendo el cursor. Ajustando posicion de nota-derecha.
+
+commit d255e6851f91ab07500f1fdd912cb513605b25d7
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Sep 4 11:43:18 2017 -0300
+
+    Actualizando package.json con ui-ember-slider
+
+commit 2126e2e418da264da3f74405165c07fd4cb53da9
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Tue Aug 29 16:24:34 2017 -0300
+
+    Agregue un slider. Usando ui-ember-slider
+
+commit 1fc9efe61691c788705e211e6dd0bc82f383dbf9
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Aug 25 15:04:31 2017 -0300
+
+    Preferencias ahora usa Sidebar. Botones de flipXY (no funcionales). Ancho de cuadro fijo en timeline
+
+commit 23ccecd38ad352f93168650fc06696816cb49b1c
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Wed Aug 16 16:21:40 2017 -0300
+
+    Estetizando un poco
+
+commit 8b302351bdec6940b22f480335d33970910a6f10
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Aug 16 12:06:37 2017 -0300
+
+    Agregado feedback visual para el cambio de modo de arrastre
+
+commit 21159ce207e2bce33ebcb53b41d2df2262b57908
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Aug 15 14:55:32 2017 -0300
+
+    Fix en el dropdown
+
+commit e77c9bb905e5ec4a39f0407893af680cca3267be
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Aug 11 15:49:04 2017 -0300
+
+    Coloreando y poniendo bonito. Agregado dropdown para modo de edicion
+
+commit 157d302655ca7cde8854eaee0b9adcd82c87a453
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Thu Aug 10 16:04:33 2017 -0300
+
+    Otra vez alineando grilla y capas. Botones de insertar y reemplazar (primer intento)
+
+commit 90c7313d74906af5effd02ebb105ef27814e0026
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Aug 9 15:42:54 2017 -0300
+
+    Ahora capturo la foto cuando se hace click sobre el cursor
+
+commit c46cf5cbf0686fcf7a49f452c6589616b24384c5
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Aug 9 15:33:17 2017 -0300
+
+    Cambio estético al timeline
+
+commit 7a5661540a059a78618b1b8e08f249c7b32d3bf0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Aug 8 15:55:09 2017 -0300
+
+    Mofidicaciones sobre el comportamiento del timeline
+
+commit 2c8be935374e61a6035c6b79c0b643e8778de9c5
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Aug 4 15:09:35 2017 -0300
+
+    Agregado el botón de guardar y se posiciona el cursor al final del timeline al cargar el proyecto
+
+commit 7fd738b2ce81ff80a1691b632e788bdd3b789f43
+Merge: 28a85db 741bd1c
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Aug 4 15:11:49 2017 -0300
+
+    Merge branch 'develop' of https://github.com/HuayraLinux/huayra-stopmotion into develop
+
+commit 28a85dbd3cc3a2e591980e12e4a6b981cd128a3a
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Fri Aug 4 15:11:21 2017 -0300
+
+    Alineada grilla, capas de cebolla y video
+
+commit 741bd1c9c9eddd56778de2383e93321b2e166592
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Aug 4 14:12:05 2017 -0300
+
+    Grilla y onionskin deshabilitados por defecto al editar
+
+commit 0dff4129ea091b5aba915e23972791dbc4191c54
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Aug 4 13:57:16 2017 -0300
+
+    Deshabilitar livereload en win32
+
+commit 599e8a33c224cc5cd63d3bddcafcc51d9a68beda
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Aug 4 12:39:44 2017 -0300
+
+    Reparado el seleccionar cámara, el onionskin y agregado un tamaño mínimo de pantalla
+
+commit fb71c92bbc5ce953a9d7a2342e6b3432419470a7
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Thu Aug 3 15:14:32 2017 -0300
+
+    Arreglando el centrado de la pantalla
+
+commit c63a8259aef7b167e50a8f651553f27df5d386fa
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Wed Aug 2 16:50:24 2017 -0300
+
+    Aplicamos Flex para organizar los espacios. Estableci algunos minimos y maximos de ancho y altura. Desgraciadamente el espacio entre cuadros vuelve a aparecer en el timeline. La vista de camara se centra cuando oculto panel de configuracion :)
+
+commit 391cc5a2de11e68c2cc72e82ddd2d703598460bf
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Aug 1 15:12:58 2017 -0300
+
+    Botones toggleables y se pueden ver los controles
+
+commit a03739c5718ea5cf9f7a5255ed30481b780fa7b0
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Tue Aug 1 14:32:32 2017 -0300
+
+    Autoscale para el video y opciones. Arreglada la grilla.
+
+commit ac2590445a15bef9bbd119ce19ea16b6c9c84b71
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Jul 31 16:19:02 2017 -0300
+
+    Eliminado espacio entre cuadros en el timeline. Agregado Panel de Propiedades.
+
+commit 4d1d755999eaea17e48346484a67b3fea88d8296
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Jul 25 13:17:47 2017 -0300
+
+    Implementados lso toggle de mostrar/ocultar grilla, timeline, etc
+
+commit 894512f6a46d3b1f84aaaa3e2368301ae2061393
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Mon Jul 24 16:55:36 2017 -0300
+
+    Video canvas se re-escala. Estilos de Timeline.
+
+commit e525d33b3a9033bdc15483538d93fc8e8dfad9cc
+Author: malefico3d <malefico3d@gmail.com>
+Date:   Thu Jul 20 14:31:40 2017 -0300
+
+    Trabajando en la interfaz: tema Liso, y cambios en layout de botones
+
+commit 213d718e1dfd0814156ab436d2ed5ca04328606b
+Author: malefico <malefico3d@gmail.com>
+Date:   Tue Jul 11 12:36:09 2017 -0300
+
+    Logo nuevo
+
+commit 12b61e892712ce31b424ca7d82849311abc2d78e
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed May 31 14:57:24 2017 -0300
+
+    Added development scripts
+
+commit f1d6498f58ca8cddfbdea3932f23eca29d7eebfc
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Feb 22 16:07:43 2017 -0300
+
+    Recargar los controles para chequear si algo externo los deshabilita
+
+commit 4141809b4642522a457932bde4d8b7fbf60cc406
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Feb 3 16:39:41 2017 -0300
+
+    Reemplazando electron-rebuild por un script
+
+commit d571a891d42817d891ce140496d1e6e803e4d93f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Feb 3 16:39:41 2017 -0300
+
+    Ahora se pueden reordenar las cosas en el editor
+
+commit 7ee393ac00373f8f49891e0d6465d3566f20d98a
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Feb 2 16:28:09 2017 -0300
+
+    Progreso moviendo código de las pruebas de la cámara al editor real
+
+commit ecd60116cd5c90f9b5ee86ee3d76311d39875b11
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Feb 2 15:53:08 2017 -0300
+
+    Evitar que la cámara quede frenada al cambiar de ruta
+
+commit e3d8fdb61fc01477b5b86caafd08202d6b99e97b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Feb 2 15:32:11 2017 -0300
+
+    Agregada traducción de los controles de la cámara
+
+commit 83e5e03de10a9288e7d2e63665e4c7ff1378830f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Feb 2 13:06:20 2017 -0300
+
+    Me tiene harto el warning de que me falta un ;
+
+commit 99d226aa39599219077519365ea5bc2f11335e08
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Feb 1 16:52:24 2017 -0300
+
+    Stop sharing on leave test route
+
+commit 4cc845658c62dc68e91bf623107df2f177349c64
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Feb 1 15:50:34 2017 -0300
+
+    Agregando start y stop al servicio de compartición de cámaras
+
+commit ac8b259fec3360b96b50622e8fbc96be569418f7
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 30 15:35:15 2017 -0300
+
+    Fix en el test de compartición de cámaras
+
+commit f6a4a4f647299781a97a6974282e89ef129393eb
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Jan 12 16:15:48 2017 -0300
+
+    Cursor y timeline funcionando con drag&drop!
+
+commit a2fcb2ba5d15be04165b9fea1a234b31e8f24f19
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 12 16:06:19 2017 -0300
+
+    Terminando de implementar las funciones para leer y guardar proyectos.
+
+commit c5f73e1870373a53a640cfed87c096dae5fded54
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Jan 12 15:08:07 2017 -0300
+
+    Agregando de vuelta el video de fallback
+
+commit a73e341979006cd7544f104d414a94310773f37f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Jan 11 16:05:46 2017 -0300
+
+    Implementación en proceso del drag&drop en el timeline
+
+commit 32a191c2c75267569450b705abf0afd97a9755ee
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 9 15:23:46 2017 -0300
+
+    Capturas y cursor draggeables
+
+commit b27f9ad75a84d0669e2472471d489ed5c02b115f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Jan 5 14:06:07 2017 -0300
+
+    Cursor básico, todavía no se puede mover porque no encontré una manera elegatne de recibir los eventos de keyDown
+
+commit f0d25ad86e8b97e65c18389e526c784867af174b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Jan 4 15:34:18 2017 -0300
+
+    Cambios mayores en la capa de cebolla y el manejo del timeline
+
+commit 30b55326bc7464f6f4dbe4c6d92fe94012d7ab4d
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 2 16:50:06 2017 -0300
+
+    Usar el hostname en la lista de servers también
+
+commit 05a86b02f473ca3992d9f9f214582c99d0ee8c3f
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 2 16:48:33 2017 -0300
+
+    Usar hostnames para conectarse a las instancias remotas
+
+commit 2bd823407d21dce657c5c8b95ae7702637d5ee1b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 2 15:56:52 2017 -0300
+
+    Mejoras en los browser de instancias remotas de prueba
+
+commit 0514274666332ec0a190740259642773418c797b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 2 15:55:56 2017 -0300
+
+    Unload del servicio de bonjour para livereload
+
+commit a8aefd5f89924c5bc85d3173994a8a69bcdbf1cd
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Jan 2 12:59:09 2017 -0300
+
+    Componentes básicos para listar las instancias de huayra-stopmotion en la red
+
+commit b7fe32a91cf3174572e4c617d41c3972115956ab
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 2 12:40:14 2017 -0300
+
+    Comenzando a implementar la vista de edición de un proyecto.
+
+commit 76606a1e4ede891d60f2721905d5615639d2f959
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Dec 30 13:59:24 2016 -0300
+
+    Implementación inicial y rudimentaria del discovery
+
+commit 701d07bb3cf4c655c7796bd2fbfd0e8c3ec63cc0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Dec 28 15:45:37 2016 -0300
+
+    Agregado bonjour como dependencia para el descubrimiento automático a implementar
+
+commit b4ea94b6396f594fd3185983d2689536476b2cf1
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Dec 28 15:44:41 2016 -0300
+
+    El tag de la fakeCam se crea al crear la cámara
+
+commit c82f70062b18038e384a12d7d67f87021d18fc03
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Dec 28 15:44:16 2016 -0300
+
+    Reparando los tests del servicio de compartición
+
+commit 452ddce236b7c2154fae5ef6f04a6a9c0f3c7d68
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 27 15:36:36 2016 -0300
+
+    Agregado el server de webcams
+
+commit f0d5bcbbaa889411a1d4dd562352fedfe4af892d
+Merge: fa86c8a b06f0cf
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 27 12:42:09 2016 -0300
+
+    Merge branch 'webapis-webcam' into develop
+
+commit fa86c8a750e612a6f37f31c2507cdd0e17e64fe1
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 27 12:41:07 2016 -0300
+
+    Realtime es mejor que hacer el cálculo a mano
+
+commit 241ccda65176a88833b99cf3bccd6b0aeaed915a
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 27 11:22:59 2016 -0300
+
+    Tweaks de los codecs elegidos
+
+commit ded0b9b105b091d2e93613ea55b6fc9dce893432
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 27 11:13:57 2016 -0300
+
+    una mejor api para el render y preview de videos
+
+commit 377ad4437222cf1e76adda5deae60f4245285c10
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Dec 26 15:53:18 2016 -0300
+
+    MediaSource preview y pixbuf para el xml
+
+commit dd971cd1423e35e894220e9a2171cbddd3c5009d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 26 14:46:09 2016 -0300
+
+    Creando un botón para abrir proyectos y mejorando la ruta de creación de proyectos.
+
+commit b06f0cfb366ea65d80a3c3946be23f02186c12b6
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 15 15:12:30 2016 -0300
+
+    Pedir una cámara idealmente HD
+    
+    No está implementado en la versión de electron del repo, por lo que todo el branch resulta poco útil todavía, ya que
+    hacer videos sólo de 640x480 cuando las webcams permiten mucho más me parece muy triste
+
+commit 8b20c725f9094dc6d2b67867f3e231537a8289eb
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 15 14:51:00 2016 -0300
+
+    La grilla y el onionskin parecen funcionales. Además ahora saca fotos!
+
+commit 6568a55f717c46d33adf5ecd441bb03598bcb669
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 15 13:51:32 2016 -0300
+
+    Cómo llegó eso acá?
+
+commit 6df2cd79688539688617be6a20666ba881043beb
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 15 13:50:31 2016 -0300
+
+    Puedo cambiar de cámaras y anda la fakeCam
+
+commit f49246c89ca8372c3e0ab65b063ba7a6d0ada2a7
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Dec 14 14:13:22 2016 -0300
+
+    Primeros retazos del rework
+
+commit 7d752ea58cc1674529f9f861af0df69c883a2c07
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 13 16:01:48 2016 -0300
+
+    Typo: reopen modifica la clase y extend crea una nueva
+
+commit 7709cfc15a4594ede3a77d97ea174e1907064a00
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 13 13:49:05 2016 -0300
+
+    Se repite la escena en el preview, todos el intervalo de selección es [a;b) ahora (como slice de la stdlib)
+
+commit 7c377f38a1ccadcbe358c08f690b713511fe1bbc
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Dec 7 13:47:59 2016 -0300
+
+    Forma rudimentaria de reportar el progreso
+
+commit 94e87889d4d2ba1220c4de383b9d7f91b97132e1
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Dec 6 15:27:45 2016 -0300
+
+    Preview básica
+
+commit 18a5f32743c623eb4212258bca2cd66ee2b76bcc
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Dec 2 15:29:32 2016 -0300
+
+    Thumbnails en jpeg y script para generar un video de thumbnail
+
+commit 96de68dea8b33bf3137c4992cdf715dad77f48e7
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 2 12:22:29 2016 -0300
+
+    Eliminando tests sin implementar.
+
+commit ea3c3aaa913740fb471e7ab30f93b7a604e79dd2
+Merge: fce4d3b 632f191
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 2 12:15:52 2016 -0300
+
+    Merge branch 'feature/flujo-de-navegacion' into develop
+
+commit 632f191534335047962c7f86bedc8a05c549bc23
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 2 12:04:01 2016 -0300
+
+    Reparando tests para que funcionen incluso si no se corren desde electron.
+
+commit f62dda27e9cf8bda5a7e8e1680fb996fbd244f60
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Dec 1 16:43:51 2016 -0300
+
+    Terminando el formulario de creación de proyectos y armando el formato inicial de archivo.
+
+commit fce4d3b97d6a6e8d816e10829054a2ff0bb83319
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 1 13:06:10 2016 -0300
+
+    Bugfixes en la capa de cebolla
+
+commit 789a1cbff78e5d072e6f0dbdb4f2d06519196214
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Dec 1 12:42:41 2016 -0300
+
+    Mantener la grilla al cambiar de resolución de la cámara
+
+commit 340703ab443f9a1e036310f130dbdf0b014ad650
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 30 15:41:48 2016 -0300
+
+    2 frames por foto en el script de melt
+
+commit b37cfdab3e01ed458a686cce7b216450ac8f4c2b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 30 15:38:54 2016 -0300
+
+    Bugfix de la capa de cebolla (NO SE PUEDE DIVIDIR POR 0)
+
+commit 98c981d1dd4cdbfd449d390c93e5512afbb8382c
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 30 15:38:30 2016 -0300
+
+    Páginas de prueba de la webcam y sus overlays!
+
+commit fdbc2e7a8827c3e6736895b8a0c7da6894592586
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 30 13:02:36 2016 -0300
+
+    Los formularios se ven un poco mejor
+
+commit 5a495ea5a7c0f7001f5ecb242fdcef98e99d19f3
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Nov 29 15:00:51 2016 -0300
+
+    Controles funcionales de la cámara
+
+commit 77fd027840a9fbf391c91f655c8b0db4ab4977ce
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Nov 29 11:52:07 2016 -0300
+
+    Controles básicos de la cámara (muestran los valores)
+
+commit 158ff2093a0af603d253c4ab565c3bc927ddf325
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Nov 25 14:30:43 2016 -0300
+
+    Controles básicos de la grilla y la capa de cebolla
+
+commit 8184dede54557b006228d5b296b35cca5a5d1f42
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Nov 24 15:34:30 2016 -0300
+
+    Implementando el selector de directorio dentro de electron para la creación de proyectos.
+
+commit 2ef337f23b734fadbc39ebbf22544dccb1242a90
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Nov 24 12:14:05 2016 -0300
+
+    Implementando el formulario para crear un nuevo proyecto.
+
+commit edf1b45d91773ec3107b1d8205d33223d49bde32
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Nov 18 16:01:04 2016 -0300
+
+    Comenzando a implementar el formulario para crear proyecto.
+
+commit 7078c2e4a77e747f627aa3a60e9c3af910b42a3a
+Merge: 75ae1c4 c120285
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 23 10:44:10 2016 -0300
+
+    Mergeado el onion-skin
+
+commit 75ae1c46e2a79d225d8a96df28e58eb80db934ab
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Nov 18 15:27:44 2016 -0300
+
+    Modificando mockup de camara para que siga funcionando en browsers/no electron.
+
+commit 7fe52152b23b121c2f6ebfa2f0c6177ea416a530
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Nov 18 15:27:11 2016 -0300
+
+    Modificando .gitignore para que incluya los archivos .png de prueba.
+
+commit dbe6e6774f3bf9cab519e686ab883fcb7886b518
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Nov 18 15:09:31 2016 -0300
+
+    Demo de la grilla en la página de debug
+
+commit 0878c17b6084cadbe3151cdcd578e7a6edc74daa
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Nov 18 14:46:42 2016 -0300
+
+    Agregando capturas de pantalla de ejemplo.
+
+commit a1813af727c58de34c447967d715c3bb5d023083
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Nov 18 12:08:09 2016 -0300
+
+    Implementada la grilla básica
+
+commit c12028599876c146b4e20b6a4a1699975fb98bf5
+Merge: bc4a9cf 8859915
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 17 16:55:50 2016 -0300
+
+    Me sincronizo con master
+
+commit bc4a9cf22c25bbb5cb2b9c0c6e6d967eff66eb60
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 17 16:50:02 2016 -0300
+
+    La capa de cebolla de encarga de tomar los frames que considera necesarios
+
+commit 885991550b9a12cb45cb5097ae4afcca14be4485
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 17 16:48:27 2016 -0300
+
+    Prueba concepto de generar XML de mltframework
+
+commit 9608b7d960d804d92f3a6045c6dcf485e27bc1c1
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 17 12:49:00 2016 -0300
+
+    Uso menos la cámara estando en segundo plano
+    
+    Por alguna razón requestAnimationFrame trababa todo en mi pc
+
+commit 5ac71109d8fef65bcf9f70c132a7c70f694eaaa0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 16 12:48:37 2016 -0300
+
+    Cebolla en una capa aparte (en un canvas aparte)
+
+commit d7212ee854e6f262c82d5cb5f68196308b51f98e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 14 15:32:10 2016 -0300
+
+    Implementando dialogo modal de confirmación.
+
+commit 7e16e2956b1cdcc964c89413db70e97851dd3aa3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 14 11:57:06 2016 -0300
+
+    Agregando ember-remodal y creando el componente para confirmar salir del proyecto sin guardar.
+
+commit 8f262d346d4378fa3896d22ba7166e972acaf30a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 14 11:13:30 2016 -0300
+
+    Creando ruta para mostrar y probar algunos componentes.
+
+commit faaa69848fdaef4834759939f850386bf5a06d9b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 14 10:46:37 2016 -0300
+
+    Arreglo menor para que los tests funcionen.
+
+commit fdd1b8f0752b1d7c9d6102e3b28a5ddf97428a55
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 10 16:33:01 2016 -0300
+
+    Commit inicial para hacer onion-skin
+
+commit 952c6979006bbf1b63a1beb132feac4c3200b4b4
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Thu Nov 10 12:07:43 2016 -0300
+
+    Implementación básica del resource manager (con registro de recursos)
+
+commit d7682f37e27ed05127880613e4f1638662a8aa0b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 9 16:36:11 2016 -0300
+
+    Inicio del manager de recursos
+
+commit d26124cc04e7678aed001fd093b05930d5088198
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Nov 7 16:00:27 2016 -0300
+
+    Fixeada la cámara de mentira
+
+commit d2afbb0ad4743c2615e21b753a231cf2da5a3c89
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 7 14:52:52 2016 -0300
+
+    Ajustando timeline.
+
+commit 28544c1043c849fbf82152cae48863bb80079823
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Nov 7 14:45:56 2016 -0300
+
+    Ajustando el tamaño de cuadros en el timeline.
+
+commit e3af602b80523e5007c2404524d875aff596ec87
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Nov 7 12:29:16 2016 -0300
+
+    Ahora se pueden crear y borrar varios huayra-camara
+
+commit af88ba787f303bdf235bdeba0adf9506690ce8c0
+Merge: b6645b8 381268e
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Nov 7 11:44:41 2016 -0300
+
+    Mergeando basic-webcam
+
+commit 381268eb34893393e699be8cab22dbca97e4efa0
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Nov 7 11:07:47 2016 -0300
+
+    Incluir los pngs de la carpeta imágenes
+
+commit 8514746da05503c9b7d11fb392d6c4e72bbc11b4
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Fri Nov 4 15:13:27 2016 -0300
+
+    El programa guarda las capturas y funciona sin los módulos opcionales
+
+commit 75bb99b966230d1f0eccc6bb110b8dbde03816bb
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 2 16:46:18 2016 -0300
+
+    La fakecam ahora es decente!
+
+commit f101cb8f639a9f3c22534625db601ff4e91442b5
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 2 15:34:55 2016 -0300
+
+    Cambios en la fakeCam (abandonados)
+
+commit d6dea5c0b0914837eb303f7e89bb081e3d48dfbc
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Wed Nov 2 13:28:53 2016 -0300
+
+    Se puede cambiar de cámara (y hay camara de prueba)
+
+commit b6645b81e67f1cf08694c5a74c0c7c956c01a827
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 2 12:32:13 2016 -0300
+
+    Haciendo que se pueda mover el timeline usando arrastrar y soltar.
+
+commit 50da82c1c6aec8b0b953aa12ee923d934e1c0950
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 2 11:24:29 2016 -0300
+
+    Fijando la versión de electron.
+
+commit 5eb2ebcca51613834ad13299ecabb3b826043134
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 2 11:24:21 2016 -0300
+
+    Agregando límites al tamaño de ventana.
+
+commit e79cf33cf53958be265587016aac45c229e1bdfa
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Nov 1 13:27:23 2016 -0300
+
+    Creado el componente huayra-camara
+
+commit 3098c8aa6eb3c563d4092027b29bc80b568941af
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 31 16:29:48 2016 -0300
+
+    Mejorando el componente timeline para que se puedan seleccionar y eliminar cuadros.
+
+commit 4883ee3248b5adfdb90662884e08bbbd62b1eb5b
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Oct 31 16:24:57 2016 -0300
+
+    Selector de cámaras
+
+commit 971c2ae0b61cf275eb8cdae00b148d8f0c570cc5
+Merge: 738eb90 dbde0dd
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Oct 31 16:03:47 2016 -0300
+
+    Merge remote-tracking branch 'origin/develop' into basic-webcam
+
+commit dbde0dd8d0e89be663d177da746fdb78360a1fa1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 31 16:01:59 2016 -0300
+
+    Actualizando el video fallback.
+
+commit 738eb90a39f9dfda130a4b3de8fe4d725d44520e
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Oct 31 15:53:48 2016 -0300
+
+    La webcam anda (por lo menos)
+
+commit 9b57bcd742ea9d7dbf7742a48910165877c06005
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 31 10:46:05 2016 -0300
+
+    Moviendo electron-rebuild al listado de dependencias opcionales.
+
+commit 0f98c432e5fcc02373d1b0f6dfbd713c51afe0e8
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Tue Oct 25 15:02:59 2016 -0300
+
+    Agregadas dependencias nativas
+
+commit f6be123db2c18ec076dc090dee9e917dbae1bae8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 24 14:27:49 2016 -0300
+
+    Ignorando archivos .png
+
+commit fe73c2a2a56a6119f2d3af9e2a22bd766724a852
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Oct 20 14:46:18 2016 -0300
+
+    Modularizando el timeline.
+
+commit a5b28b43912837723103f4fcb1277d53fe5e0eef
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Oct 20 14:46:05 2016 -0300
+
+    Haciendo que las capturas de video funcionen tanto en electron como en el navegador.
+
+commit 554d60a0e0a55e5bf0dcae7a13099270a5c7a039
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Oct 20 12:06:29 2016 -0300
+
+    Creando rutina para capturar cuadros del video de prueba.
+
+commit 45d1f6d95d7b838165a88c270c65541502dd1987
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 17:58:36 2016 -0300
+
+    Creando el layout inicial para la pantalla de composición.
+
+commit ed798cb6724c9a8778424f3d9e0449ea9b3152bc
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 17:24:13 2016 -0300
+
+    Haciendo que la cámara se inicie solo cuando se ingresa a la ruta principal y creando una cámara de prueba.
+
+commit dd02f580ed5d807eccc79b2ee9e4908fb5fe0768
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 15:12:46 2016 -0300
+
+    Haciendo que la aplicación se pueda lanzar y utilizar desde chrome.
+
+commit 8202f82327c2078c712eff5a7c90740a178f96f5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 14:32:49 2016 -0300
+
+    Agregando un servicio básico para poder habilitar livereload en electron.
+
+commit f99ebe8fa9cf3420d7e355e28b372321f3fd90b3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 13:05:46 2016 -0300
+
+    Integrando electron closes #14
+
+commit ed36f5b43da68c79f8eb958c02d739d538e8bcfa
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Oct 19 13:05:29 2016 -0300
+
+    Creando makefile inicial #14
+
+commit 0727cf59517eb26aff9a64a2ecb885e6f5a0823e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 16:08:37 2016 -0300
+
+    Agregando métodos para completar la API con las cámaras web.
+
+commit 365a1b083f65a354987aa97a25c7d0265dd8c6ee
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 15:09:34 2016 -0300
+
+    Creando servicio para representar cámaras y el estado inicial de carga.
+
+commit e64bbec47d65c6990e1e9ce17b1ff12e28c0746c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 14:48:12 2016 -0300
+
+    Reparando tests.
+
+commit b60a9b1b81ca050315ebeb6ce438393159b4aed3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 14:28:35 2016 -0300
+
+    Comenzando a crear el layout inicial.
+
+commit a9cb33c2c2aad2a934d6ed31fded20b28e920ae7
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 12:05:06 2016 -0300
+
+    Instalando semantic-ui #13
+
+commit e84e5fec58a78aae3789ce6bb0b5988438ce8524
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 12:04:31 2016 -0300
+
+    Mejorando README para incluir image de status de travis #13
+
+commit b72ed9b460f5327e5cd4498b65ea63aa1e1d2c0d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 12:03:00 2016 -0300
+
+    Instalando mirage #13
+
+commit 3b05319cf02113d3cde68a3b289903b0d6570037
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 11:59:09 2016 -0300
+
+    Creando la estructura inicial de aplicacion ember #13
+
+commit 8ca3e7a4f598c4a370ccd8303bcf6920d2d41eaa
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 11:50:30 2016 -0300
+
+    Moviendo archivos de la version anterior.
+
+commit 4c532edb296f569e53e94af838f39f9bc3af5399
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Oct 17 11:47:48 2016 -0300
+
+    Creando directorio para almacenar archivos de la version anterior (de referencia)
+
+commit 8f501c6ee474495a70698bcc3b633ed3cb28e4a5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Sep 12 15:18:11 2016 -0300
+
+    Update README.md
+
+commit 2b698b90561b41369116fc3cd213c90b7948fe87
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Aug 29 15:01:41 2016 -0300
+
+    Fix typo del commit anterior
+
+commit 56f0fa207c3c09661dc1940911def575d68fda35
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Aug 29 13:19:46 2016 -0300
+
+    Quitado el node-main
+
+commit d10a34b0fb3f2e0f1757b91ef23274a0da79961d
+Author: Ignacio Losiggio <iglosiggio@gmail.com>
+Date:   Mon Aug 29 11:28:53 2016 -0300
+
+    Agregado WM_CLASS
+
+commit af042ac09d4b3186e91d3389320e84b32e00058d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon May 23 16:10:09 2016 -0300
+
+    update
+
+commit 88d8a19245f98b2f6b6cecb00c18f0f54faf213c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon May 23 16:08:32 2016 -0300
+
+    update
+
+commit cd0eb856ff53a07b5fa4a60ea076e81c17453e89
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon May 23 16:02:31 2016 -0300
+
+    update
+
+commit edac58e7d878079070301704f9e11f872f2ce09c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon May 23 15:57:11 2016 -0300
+
+    Actualizando readme.
+
+commit cd78ccde3d1e71b9609b8f6be82d1dfc97f4ab04
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon May 23 15:53:28 2016 -0300
+
+    Reiniciando la conexión entre items de menú y callbacks. Closes #11
+
+commit 5c3dfb4ed39c3d76d97357ba375948d39aa15b15
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Apr 6 15:09:03 2016 -0300
+
+    typo
+
+commit 9a67e85964a67dee316954368266858a34d3f90e
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Apr 6 14:57:06 2016 -0300
+
+    quito build deps
+
+commit 4704f16eebe172f9ee8746f51224198bd76fa213
+Author: Mauro <lavaramano@gmail.com>
+Date:   Tue Apr 5 16:49:49 2016 -0300
+
+    version 0.5.1.1
+
+commit 8d68483eca19f429a98b4a0a8682f7a96895d755
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Mar 2 18:01:10 2016 -0300
+
+    huayra-stopmotion: 0.5.1
+
+commit 122e9ab545b6b7dac999797ff052319448f878af
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Mar 2 17:08:05 2016 -0300
+
+    mensaje innecesario
+
+commit bedb18d2183b341f232b89282f7d2b74e9c2a305
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Mar 2 16:23:37 2016 -0300
+
+    ng-show para la ventana principal
+
+commit f16280c4d87690cb594aebe64c3b575a24cecfe4
+Author: Mauro <lavaramano@gmail.com>
+Date:   Tue Mar 1 17:24:23 2016 -0300
+
+    Actualizo changelog. El menu  lista las sesiones recientes.
+
+commit b2b5a511642d33656d4efbc2842fe0f73a78aa51
+Author: Mauro <lavaramano@gmail.com>
+Date:   Mon Feb 29 18:19:26 2016 -0300
+
+    Quito pantalla inicial, asi directamente uno comienza a trabajar. Ademas, al 'cambiar' de pantalla (al abrir una sesion nueva, al abrir una sesion existente o al cerrar) nos consulta si queremos guardar los cambios antes de continuar
+
+commit 7c0cc693fcd38736ac42efcc359ac2687e89fba4
+Author: Mauro <lavaramano@gmail.com>
+Date:   Mon Feb 29 18:18:30 2016 -0300
+
+    Agrego dos partials
+
+commit 11fb450e4c531b4e7053c406fe150f8fbd7149ad
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jul 23 15:02:56 2015 +0200
+
+    actualizando a la version 0.5.0
+
+commit 49ecf3bd91eac940d059db0a8dbcbbbdfc9c4480
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 23:01:21 2015 -0300
+
+    release 0.5.0
+
+commit 772aa16f456c1620e25eb08ec9bd72607ad2b7f8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 22:40:02 2015 -0300
+
+    arreglo incremento de version
+
+commit 3cf8756735095ad08f9fe4466c005f39259cee23
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 22:37:38 2015 -0300
+
+    habilitando 'guardar' incluso cuando se inicia el proyecto por primera vez.
+
+commit c641c976fb18ddb58f6378d9f451e7bf75f52f64
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 22:29:05 2015 -0300
+
+    arreglo menor en el selector de cámara activa.
+
+commit 2a5d44c534d082eb98294f58281a7e0c2a10ebe5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 21:59:19 2015 -0300
+
+    arreglo menor.
+
+commit b6accbdb651e340542a66863af7e28093b7e8bb9
+Merge: 167bee2 17e90c4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 21:54:27 2015 -0300
+
+    Merge branch 'huayra-version-stable'
+
+commit 167bee20468689459047b3d4f744bb9f99343463
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 21:53:50 2015 -0300
+
+    revirtiendo cambios.
+
+commit d9c534a1921e1ca56ab3d1dc9ddc55585678b7bc
+Merge: e726874 366f78e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 21:42:39 2015 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 17e90c4e424030beaf168819073ee850d35dc306
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jul 22 21:42:20 2015 -0300
+
+    arreglo menor.
+
+commit 9d4e8234b62e87ff8f028722b26b9cbf23fd43b0
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed May 27 15:34:00 2015 -0300
+
+    actualizando el paquete.
+
+commit c6ad5f00b59940d7fbfaffbd1cedd08464c5d350
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed May 27 15:30:39 2015 -0300
+
+    release 0.4.24
+
+commit 4e9162f3a01ecdc14382acfb453fb2fb405e03ca
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Tue May 26 16:33:18 2015 -0300
+
+    Arreglada la capa de dibujo (no recibía eventos)
+
+commit 366f78e19a03a46d40728d4807c840517e4f41e1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Apr 15 20:41:26 2015 -0300
+
+    Update README.md
+
+commit 76f935e37589dc1368748c6e87ce7a31e37bdbad
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 11 19:25:00 2015 +0100
+
+    actualizando el paquete.
+
+commit ef0e6a933c6025256538589da8e9fdbf7d97a1e2
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 11 19:23:26 2015 +0100
+
+    actualizando version
+
+commit 1c58ac23435e652add5f87016f4ee1d35374a283
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 11 19:22:55 2015 +0100
+
+    actualizando version
+
+commit c3b4139eca27bc3228c04cdb03904ae447d91931
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 11 19:21:09 2015 +0100
+
+    actualizando el tamano de ventana
+
+commit 444335855299d9401c4de5b4389c3ab22ac16fec
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Tue Mar 10 12:53:46 2015 -0300
+
+    Agregada la dependencia bluebird para el empaquetado y cambiada la versión
+
+commit ee20b59b20c11b0bb2cd0f215645956e247c3bbb
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Tue Mar 10 11:04:18 2015 -0300
+
+    Changelog
+
+commit d7e65f87a236202213f894d9765a7ea434778956
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Tue Mar 10 11:02:37 2015 -0300
+
+    Quitado el bitrate de salida para evitar errores exportando con un fps bajo
+
+commit 634dcaafcc5a48bc0bb4ebd0b512919c2d042a8c
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Tue Mar 10 10:39:27 2015 -0300
+
+    Corregida llamada a avconv, ahora genera un video con los fps correctos
+
+commit f086c7090f0d62f49ec9f510858b9f7b576159cc
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Mon Mar 9 15:27:45 2015 -0300
+
+    Changelog
+
+commit d0e4ad89aef59cd365b2afbba63474cc196a7b25
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Mon Mar 9 15:19:10 2015 -0300
+
+    Agregada la dependencia: bluebird
+
+commit 438a60a4d6fc99ee144ef929b6ce4dea6882db0b
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Mon Mar 9 15:06:29 2015 -0300
+
+    Agragando opción al avconv
+
+commit 7545c361d1b6a31c3ea69a18b1dfdec96373f637
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Mon Mar 9 13:20:46 2015 -0300
+
+    Esperando a que se graben las imágenes antes de exportar el video
+
+commit 6443fa844bdf1665d215c9c6ce5593ec3755a14c
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Mon Mar 9 10:09:41 2015 -0300
+
+    Quitada una dependencia y actualizado el changelog
+
+commit 342c6eac981065c1aefb94e3ffaaec690524fb9c
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Fri Mar 6 14:31:23 2015 -0300
+
+    Quitada la dependencia fluent-ffmpeg
+
+commit 485a3cc6421f3d0e46713fe94b864e06fe5fa05d
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Fri Mar 6 14:28:45 2015 -0300
+
+    Quitada la dependencia de ffmpeg
+
+commit ad42d458ad86ee72184ecadf5e1eb93f6f5f42fc
+Author: Gonza Gluzman <dggluz@gmail.com>
+Date:   Fri Mar 6 14:24:57 2015 -0300
+
+    Reemplazada fluent-ffmpeg por un mock que usa avconv
+
+commit 5dd3ed55eb879894ac7baabf5a1fad888d76884c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 6 14:57:15 2015 +0100
+
+    subiendo el archivo bower.json
+
+commit 63c0c7ddab978931706a299b27a7edde3abfeab2
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 2 19:48:25 2015 +0100
+
+    actualizando paquete.
+
+commit e72687480528e2901445a759d6c0fa44a0f60ec5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Feb 28 18:36:45 2015 -0300
+
+    arreglo menor.
+
+commit 42e8492a3c072fb3923b1bc3c771343b9a7aeeee
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 27 18:23:03 2015 +0100
+
+    actualizando changelog
+
+commit b9b64d9900f27a63c06bd86f3929d87700dc5eb9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 25 20:50:17 2015 +0100
+
+    actualizando paquete
+
+commit bb63e940bf7a39eb72363a274b27089636ef59d3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 23 18:15:53 2015 +0100
+
+    actualizando la url de consulta al ws de versiones.
+
+commit 70c1370e9672c85ff4ef1b75f197d9e0acb7ade1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 23 12:58:51 2015 -0300
+
+    reparando rutas para el componente version
+
+commit 5ded91df90cc9302cd51a6dbaf2995e567ae3143
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 20 17:52:40 2015 -0300
+
+    Agregando consulta de última versión a través de un webservice.
+
+commit 3eb5bccd530642279e685f334fa136d005348689
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 16:07:27 2015 +0100
+
+    actualizando paquete.
+
+commit 095f52d7617a6268b32af4ebe3adbd2a3bc39c6d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 12:04:46 2015 -0300
+
+    release 0.4.17
+
+commit 653a2539ff0d930edcca087f0fed512727906a1f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 12:04:16 2015 -0300
+
+    Reparando la exportacion de videos.
+
+commit eb2d74685bcf153af611b599026839e1fc782ef6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 11:41:39 2015 -0300
+
+    Arreglos para evitar que se arrastren imágenes o se puedan soltar archivos sobre la ventana de nodewebkit.
+
+commit ba843b3c1a055f22af77d1a0e99fb26ca9713b3c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 11:41:14 2015 -0300
+
+    Quitando armado de thumbnails.
+
+commit 846a50bf3c37bf454c697bfd681d14f3751e1d2a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 11:40:53 2015 -0300
+
+    Simplificando la directiva huayra-version.
+
+commit 7530f49ae83782c9d030c2c0dd6e5f40d4ef3a18
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 14:39:19 2015 +0100
+
+    actualizando paquete.
+
+commit 4482710cbe0474448fc600748485adb735f20422
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 14:33:39 2015 +0100
+
+    release 0.4.16
+
+commit a81bdb76dec409fedf73d01b660110c5818645f7
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 14:05:10 2015 -0300
+
+    Quitando animaciones de los diálogos.
+
+commit 8c828daebc68b093cf93a4eda1fa14fec8577abc
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Feb 5 16:35:46 2015 -0300
+
+    cambiando el zindex
+
+commit 6eb9fbd3252280c5d8e8711e0c4c7c5bc915d48d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 18 14:28:16 2015 +0100
+
+    actualizando.
+
+commit 4b1bb2523b15438536a1dd3c0a71402fe21b558c
+Merge: 6e1e129 94bbcdd
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 16 16:22:10 2015 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 6e1e129969b558e764fde68cc395c548c91ed54d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 16 16:22:03 2015 -0300
+
+    arreglo menor.
+
+commit 94bbcdd4bd4c6ab9b91229c6b9ce2a242edf2a01
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Feb 5 16:35:46 2015 -0300
+
+    cambiando el zindex
+
+commit 35f6e908d6eee38a662c936e3b366a3cdcd790eb
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 2 16:58:14 2015 -0300
+
+    arreglo menor.
+
+commit ce5f333c8cc76c407f6251f62aa438b0e6f17aec
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 2 16:41:54 2015 -0300
+
+    Implementando rutas.
+
+commit 47195ef986a35b545d46f1786790c1f5ba007980
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 2 16:26:44 2015 -0300
+
+    Arreglos menores.
+
+commit 2a2f18c7420c21c99d9bc788728553fcd41b9917
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 2 13:56:34 2015 -0300
+
+    modificando la estructura general.
+
+commit c35ae69d7a9df83e35e505ebb497faeecefdfa3d
+Merge: 31c42ee 4e0d516
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 1 04:05:54 2015 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 4e0d516ac8d18f66c97da4d4eb7eb829403b418b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 29 15:58:23 2015 -0300
+
+    Arreglos menores.
+
+commit e1480d2bb19877e6a4e1f9661cb46d4b5a36aa8c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 29 15:47:05 2015 -0300
+
+    Comenzando a cambiar la arquitectura de la aplicación.
+
+commit 9eb33f224cbd4214ae4e911737ed7332445052e4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 8 16:22:49 2015 -0300
+
+    arreglo menor.
+
+commit 4a2ffb6a06bd058293eb8d73d23eef0069b9e96c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 14:05:10 2015 -0300
+
+    Quitando animaciones de los diálogos.
+
+commit 0c659018cc7e758733bcd3f65e7329560f536105
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 13:13:17 2015 -0300
+
+    release 0.4.15
+
+commit 67ab5301125432d861ef0ae6f81ea6e62238e19d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 13:08:27 2015 -0300
+
+    arreglo menor.
+
+commit 8f80fa7b741ea21b3260bde20c2cfcd00591f829
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 13:05:26 2015 -0300
+
+    release 0.4.14
+
+commit d7ff38b87fe9ee6dcf41f209799918a737329da9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 13:05:03 2015 -0300
+
+    Ordenando numero de versiones.
+
+commit f2bd1d8fbd37ed945b1d284c5ae650bb6c98bc08
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:52:38 2015 -0300
+
+    Organizando archivos.
+
+commit 09eba2f0225e8f05f40ec3d868ce8983f5f55e48
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:45:25 2015 -0300
+
+    Quitando la dependencia de bower.
+
+commit 5144ae3b6f51683185944b509a71160b80c1b4ca
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:35:38 2015 -0300
+
+    release 0.4.13
+
+commit 66662bcc8784238bdaf441cfde83f5a37abe61a0
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:34:34 2015 -0300
+
+    arreglo menor.
+
+commit 3049323fd00f21e14758943951055d23cd303e03
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:24:56 2015 -0300
+
+    Comenzando a modularizar componentes.
+
+commit 8d272bba9a85adca4a889ccc2b95b2b5ae3166ef
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:07:14 2015 -0300
+
+    release 0.4.12
+
+commit 8a30f5bbe4fe87d607f022e1c229ae0cd311556d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 12:06:56 2015 -0300
+
+    arreglo menor.
+
+commit ed72b69b12ad2759a2d9394ae2fc6c5649ba5107
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 7 11:59:29 2015 -0300
+
+    agregando manejador de argumentos para abrir proyectos directamente desde consola.
+
+commit 885e385021bd355f940c01d40bdd169df3bd2efb
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+Date:   Tue Jan 6 17:01:39 2015 -0300
+
+    corrigiendo mime type (no usar text/*** porque la busqueda del icono
+    termina buscando text-generic por todos los temas)
+
+commit 31c42ee36da4afb6353e328337c36a8d5b9d5941
+Merge: 680340c a70d79e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Jan 6 15:07:06 2015 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit a70d79e90018a18a6a0b20578da69279913ecfa5
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+Date:   Tue Jan 6 13:42:26 2015 -0300
+
+    el archivo debe llevar el nombre del paquete
+
+commit e0c03c18d8b13622297ced69b6362834c7328839
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+Date:   Mon Jan 5 17:59:47 2015 -0300
+
+    correccion del formato del archivo control y dependencias
+
+commit fcfa916a234cfb764ad4abc52a6659823181303d
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+Date:   Mon Jan 5 17:52:48 2015 -0300
+
+    soporte de mime y asociacion para los archivos .hmotion
+
+commit 7620cbdf41fb4f9b0f20b9419432093d6b16c553
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 16:54:30 2015 -0300
+
+    actualizando changelog.
+
+commit d91abda5477150bcd42a20c1bdb086b5c0dda018
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 16:51:23 2015 -0300
+
+    release 0.4.11
+
+commit b2fae11318b6d673e66b603ba40dc36fc6c80bf9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 16:50:25 2015 -0300
+
+    Agregando un notificador de versión.
+
+commit d1361f2b3a682d01fc46f02cbaf6ca4cb18ddeba
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 11:53:28 2015 -0300
+
+    actualizando changelog.
+
+commit a75a8508a68014675325821c46c259e96251d06c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 11:51:59 2015 -0300
+
+    release 0.4.10
+
+commit a6e9db6bbbd787bc21fd28f00a68516e57b28055
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 5 11:51:10 2015 -0300
+
+    Generando comandos para automatizar releases.
+
+commit 70469ad1d259e9ad1f7f4d85f216221762d4481d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 22 12:58:32 2014 -0300
+
+    Quitando soporte para exportar a mpeg2
+
+commit 1bf55933252d022cb175b24851c203096df9e873
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 22 12:26:52 2014 -0300
+
+    reparando el bug de escalado de gif
+
+commit 224456a03808cb190123f2edeab801c569f2c6a8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 22 12:06:33 2014 -0300
+
+    reparando el problema de exportacion de  GIF.
+
+commit dae69df40a4cd7b538120679a3c44cd2cb0db5f6
+Author: Mauro <lavaramano@gmail.com>
+Date:   Wed Dec 17 14:50:18 2014 -0300
+
+    escondo el paginador
+
+commit 3ce123cdcfa43f8b42c62aa415881c540b3822d9
+Author: Mauro <lavaramano@gmail.com>
+Date:   Tue Dec 16 16:21:15 2014 -0300
+
+    un cartelito un poco mas practico para reportar errores de videos-no-html5
+
+commit 4807ca35a66974b2d4309dce0c134b6d46467b0b
+Author: Mauro <lavaramano@gmail.com>
+Date:   Tue Dec 16 15:06:35 2014 -0300
+
+    mejore un poquito el manejo para verificar si tenemos cam o no
+
+commit eeebd1920b8ab7d5cfbfd8a902e035b9be9ac1b3
+Author: Mauro <lavaramano@gmail.com>
+Date:   Tue Dec 16 12:20:01 2014 -0300
+
+    saco alerts y consolelogs
+
+commit 733d34c8424ce4d6fc7faf2b7ec5fcffe2d04b55
+Author: Mauro <lavaramano@gmail.com>
+Date:   Mon Dec 15 16:38:36 2014 -0300
+
+    Soporta multiples camaras en red. MODO DEBUG, NO PRODUCCION.
+
+commit b0d56329364f5194514f5f2a21a1748900e5e3aa
+Author: Mauro <lavaramano@gmail.com>
+Date:   Mon Dec 15 14:46:39 2014 -0300
+
+    agrego carita del mensaje de error
+
+commit 06296d38f3c505ac1a9b247cb85958e32fa119d2
+Author: Mauro <lavaramano@gmail.com>
+Date:   Mon Dec 15 14:46:17 2014 -0300
+
+    si no tenemos camara o la camara no funciona, nos notifica al iniciar la aplicacion.
+
+commit a7d794da12d9660ef17e6a125e6b5555713dc4e6
+Author: Mauro <lavaramano@gmail.com>
+Date:   Fri Dec 12 16:46:12 2014 -0300
+
+    changelog
+
+commit 3c85833013129959e959dd8cab0aadc777463764
+Merge: e75a50d add2c1a
+Author: Mauro <lvm@users.noreply.github.com>
+Date:   Fri Dec 12 16:43:38 2014 -0300
+
+    Merge pull request #5 from digitalh/master
+    
+    Mas presets. Mejora en thumbs. Implementación de escalado al exportar.
+
+commit add2c1ac9e0418f44d0fecd45389fdcb94fdbf69
+Author: Iván Hoffmann <digital.h@gmail.com>
+Date:   Fri Dec 12 16:27:37 2014 -0300
+
+    Mas presets. Mejora en thumbs. Implementación de escalado al exportar.
+    
+    - Nuevos presets de exportación de video: Vimeo 640x480, WebM, MPEG 2,
+    XVid4, H264 Sin Pérdida (lento y rápido).
+    - Implementación de la opción de escala al exportar (excepto YouTube y
+    Vimeo).
+    - Mejora en comando de miniaturas.
+
+commit 680340cb5e226dc733320cdd2c564b80660fc21e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Dec 11 10:39:59 2014 -0300
+
+    Quitando animaciones diálogos modales.
+
+commit e75a50de519ed2fcbecb54ff54ecbe005a2f5d68
+Merge: 4f03e87 eb529dc
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Dec 11 00:34:19 2014 -0300
+
+    Merge pull request #4 from digitalh/master
+    
+    Nuevo preset de exportación YouTube 640x480. Fix de fps en exportación. ...
+
+commit eb529dca3e483cfa3a3df9bfce6e30b28ef68539
+Author: Iván Hoffmann <digital.h@gmail.com>
+Date:   Wed Dec 10 16:27:53 2014 -0300
+
+    Nuevo preset de exportación YouTube 640x480. Fix de fps en exportación. Cambios para generar thumnail de la imagen luego de la captura.
+
+commit 4f03e878a92e9d6e757ea77cc17e512d75c3885c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 19 17:30:24 2014 +0100
+
+    actualizando paquete debian.
+
+commit dacdb0a965fb6227f5d9ddf3947ce8e23f22ea5d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 19 13:03:07 2014 -0300
+
+    Reparando el bug de las imágenes que aparecían por la mitad.
+
+commit aad9399b9c0b45d194e9fbbb11902d55ff8483f4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 12 14:24:43 2014 -0300
+
+    Comenzando a implementar promesas en lugar de callbacks.
+
+commit a122ec24d31ff92a910df5b9b56c037af1a25b6c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Nov 12 12:35:15 2014 -0300
+
+    actualizando async.
+
+commit 6ef04c54c56044248d617ebe9b01c8b9a8e4725c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Nov 11 17:15:10 2014 -0300
+
+    deshabilitando los selectores de capas anterior y siguiente.
+
+commit e6bba18ebdd1d7ab1b67161ade0b59f02551630f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Nov 11 16:43:13 2014 -0300
+
+    arreglando el problema del cache de imagenes.
+
+commit 5570db07c6064d0655807232943e4edd1d2a5612
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Nov 11 16:07:00 2014 -0300
+
+    arreglo en la copia de archivos
+
+commit 5f315921269a2e9bbe7f493412a038b1829580bd
+Merge: 39d925a a1d566d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Oct 17 15:58:56 2014 +0200
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 39d925a230e449be3de5be39b2ddfba61b5f6df3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Oct 17 15:57:29 2014 +0200
+
+    actualizando paquete.
+
+commit a1d566d6faccfa011943f691fcb3a5a0e199486b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Sep 26 16:12:52 2014 -0300
+
+    agregando archivos de proyecto webstorm.
+
+commit 30c146a5700e625d675e183f798e3f78b80f914c
+Author: malefico <malefico3d@gmail.com>
+Date:   Thu Jun 26 15:06:34 2014 -0300
+
+    input number para cantidad de capas de cebolla atras y adelante
+
+commit e9a296823e834e451a2a1a8746e82aac90a5ec48
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jun 26 15:43:51 2014 +0200
+
+    arreglo menor.
+
+commit 34fca759fb6fde5a15411c5222c12938c04eec5d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jun 23 17:34:34 2014 +0200
+
+    actualizando paquete debian.
+
+commit b3c9fa11b96ec0379fec869712e5aeb5ba4e03e6
+Merge: f37b0b9 f8195d6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jun 23 17:33:29 2014 +0200
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit f8195d618974a1a1a2738f8279496fc4bfb2441e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jun 23 12:32:47 2014 -0300
+
+    Agregando un indicador de versión.
+
+commit f37b0b91e5a2bebcff6b4e280225a3538fae2cac
+Merge: 5440a8c 12d846f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jun 23 17:14:18 2014 +0200
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 12d846fc4b552011126a6e3ec48e7c81950931e5
+Author: Hugo Ruscitti <hugoruscittt@gmail.com>
+Date:   Sun May 11 22:41:11 2014 -0300
+
+    Reparando los bugs relacionados con paths en windows.
+
+commit 5440a8c10b3b190d16ae2123986e4044fe9c682c
+Merge: baaa1a9 a2fa313
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Apr 11 23:32:10 2014 +0200
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit a2fa313c5a934a42ee4082b32b122365c2d47c25
+Merge: c95cecd 8410a30
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Apr 11 18:31:31 2014 -0300
+
+    Agregando nuevos iconos y mostrando el numero de versión
+
+commit 8410a304d65ef379c076270a694693bfdc801364
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Apr 6 21:05:58 2014 -0300
+
+    Reparando el link script para subir huayra-motion al servidor web.
+
+commit c95cecde2860ec073b2fa223f9b01e7c098b7c6e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Apr 3 14:30:11 2014 -0300
+
+    actualizando el comando upload
+
+commit bf32d7eea9ef11a4715c6bfc880f3e401cf2e7c7
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Apr 2 03:11:30 2014 -0300
+
+    agregando numero de version.
+
+commit baaa1a98750e42903386626789da66767da0a35b
+Merge: 79d840c 7365f07
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 31 20:19:48 2014 +0200
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 7365f0737c9247cfa32f34a58a419caeb0580345
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 29 11:49:58 2014 -0300
+
+    Reparando el bug raro que impedía dibujar con el canvas invertido.
+
+commit 295ab0889ff5c886b0c00285f24c493862aaa651
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 29 11:31:17 2014 -0300
+
+    Haciendo que la capa de dibujo no aparezca sobre los diálogos.
+
+commit 11ab4553ec0df101d86c7f252fc943c8789ed8a4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 29 11:20:52 2014 -0300
+
+    Permitiendo ampliar la grilla a un maximo de 100 filas o columnas.
+
+commit 8a169d8a12017e239f8d00214c5a7b1756f8af1d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 29 11:09:18 2014 -0300
+
+    Reparando el bug en el reproductor de cuadros.
+
+commit a6cbf214bfeb533ed7cf96e5583a6604f47a8237
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 22:39:34 2014 -0300
+
+    Aplicando efectos de espejado a la capa cebolla.
+
+commit 72bac3923b94616476a7072c88d3c987d0b58c59
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 19:30:21 2014 -0300
+
+    cambiando el titulo de la aplicacion en el readme.
+
+commit d5af14dd7022e2c629332c061f00c7e097981f49
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 19:27:07 2014 -0300
+
+    agregando una captura de pantalla.
+
+commit 9bc1981bde7735128f79f781050859f08a970f96
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 19:26:34 2014 -0300
+
+    arreglo menor en la resolucion de la camara.
+
+commit 79d840ccde14361aa65502bdc3b15b5ae5a1ed8c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 18:06:10 2014 +0100
+
+    actualizando paquete debian
+
+commit c836bddcd884415e945e6516bb199f518092a8ca
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 13:47:51 2014 -0300
+
+    arreglando el dibujado con webcams de poca resolucion.
+
+commit b8c2259a3581bbbb089e3dff5984898414c4c8f1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 13:18:06 2014 -0300
+
+    log de prueba.
+
+commit 69436c6098b442349e33972466fccbb8ab177c13
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 00:58:38 2014 -0300
+
+    Creando efectos para espejar el video en vivo.
+
+commit 81775aff26a6ff8e40d16a9620e0b066eacfe7f5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 00:36:15 2014 -0300
+
+    Agregando imagen al modo cámara remota.
+
+commit 360f3468d745c4116641715af052c1732e708182
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 28 00:35:59 2014 -0300
+
+    Agregando modo dibujado sobre el canvas.
+
+commit d5febc2453211330e48632356521f0922bfd40ef
+Merge: d0b7617 50f09df
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 27 22:33:49 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit d0b761730fcfb86e9d530499a82d033261e6548d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 27 22:33:36 2014 -0300
+
+    Ocultando la capa de cebolla cuando no hay cuadros en la animación.
+
+commit 50f09df02d4bfb5f5e23e9b6a97200e92b3a7bda
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 26 19:03:46 2014 +0100
+
+    actualizando paquete
+
+commit d2272c150f7f19594d47d41c06caaa745d43f393
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 26 11:33:54 2014 -0300
+
+    Reparando el modo cámara remota.
+
+commit a4499c938d25553b4634dcaad7dec0c8ec3190db
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 26 11:33:37 2014 -0300
+
+    Borrando archivos que ya no se usan.
+
+commit 4a03373b5a9075775859fc0095ad387ddba40dfb
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 20 18:01:45 2014 +0100
+
+    actualizando paquete debian.
+
+commit fe610a5393361770848c14c83a1c67cfc75a2e03
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 20 13:55:01 2014 -0300
+
+    Quitando la etiqueta "modo" y agregando un texto explicando como usar la cámara compartida.
+
+commit dfc8c7ec0e0939b2725d05d2e7c33ebdcc4c2809
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 20 13:47:08 2014 -0300
+
+    Evitando que se pueda seleccionar texto en la interfaz.
+
+commit ce3b6b38fc12008114d946ab03c4891c022840ea
+Merge: 635e107 552e8a5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 18 23:52:18 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 635e1073dde7e5ecc05de9d35b0e50fbc61c35ed
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 18 23:52:10 2014 -0300
+
+    Reparando el bug que se producía al exportar proyectos en directorios con espacios.
+
+commit 552e8a5f24d879d33e0954debe13f9632e69df0f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 17 19:14:56 2014 +0100
+
+    actualizando paquete debian
+
+commit 68ac9fa2e9628f4bc92110b321b219ab16abf678
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 17 19:14:23 2014 +0100
+
+    cambiando la ruta a la imagen temporal de uvccapture en tangopoint.
+
+commit 5cb737b5cbf019bacd05b03c637cabbb0fc9b8cc
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 17 19:07:59 2014 +0100
+
+    actualizando changelog
+
+commit 5ebbbb818b8fd1ebc771a92ae737dc4152c99d8d
+Author: Alumno <alumno@huayra.(none)>
+Date:   Sun Mar 16 23:38:14 2014 -0300
+
+    habilitando los controles de brillo y contraste en las netbooks tangoPoint.
+
+commit 016b01ae72ba1bdb4d702067dc134b3924c03d5d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:59:24 2014 -0300
+
+    Implementando captura de cuadros con uvc.
+
+commit b3d0a88c3392b697060be0701df14fec46bd4d92
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:45:04 2014 -0300
+
+    Llamando a uvcdynctrl para deshabitar el balance de blancos automático.
+
+commit f568b0c347f598910bec0515d31864f8b90d0933
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:27:25 2014 -0300
+
+    Ajustando la capa imagen_uvc.
+
+commit f592babec8be5866fc21804821850094e6572df0
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:20:37 2014 -0300
+
+    Haciendo que las imágenes del canvas uvc se actualicen cada 2 segundos.
+
+commit 4660356392f75db7b3dec62e2282c8294cb20f70
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:08:35 2014 -0300
+
+    Mostrando la imagen capturada de uvc capture.
+
+commit 4eb8473202ef3e0908b630787fd68759f9db399e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 15:03:59 2014 -0300
+
+    Mostrando el modo de captura en la interfaz.
+
+commit ebddc4a5574ca4f20933a1f719e686c87db19b37
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 14:57:33 2014 -0300
+
+    Convirtiendo el modulo Video en un servicio de angularjs.
+
+commit 0afc91a81790aee7674f2fe9f9c0a5d99df78ee7
+Author: Alumno <alumno@huayra.(none)>
+Date:   Fri Mar 14 14:29:50 2014 -0300
+
+    creando un atributo modo, para soportar html5 y uvccapture
+
+commit bc397a74893e2566c3ce9ffbf2f45a7636817ee6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Mar 14 14:02:23 2014 -0300
+
+    Arreglo menor.
+
+commit 9534dfdacf70c250c9dec38318b513c7546b80f2
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Mar 13 17:09:43 2014 -0300
+
+    Haciendo que los links de la sección About abran el navegador.
+
+commit c4f9de4afe7dae79d278b6f5c3891cf6e622da1d
+Merge: 11cb33f 445dfaa
+Author: Alumno <alumno@huayra.(none)>
+Date:   Thu Mar 13 10:37:02 2014 -0300
+
+    Merge branch 'master' of http://github.com/HuayraLinux/huayra-stopmotion
+
+commit 11cb33f9dae1cdcb1e211a12fdc99ee9970aad4d
+Author: Alumno <alumno@huayra.(none)>
+Date:   Thu Mar 13 10:34:08 2014 -0300
+
+    probando la invocacion directa a uvccapture
+
+commit 445dfaaf690e5ad0073cdacdcb4af83a0a2e095a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 11 23:12:04 2014 -0300
+
+    Reparando el ícono de la aplicación en el taskbar.
+
+commit e2ab3b710a4d6483c2ba6337e295ae757b243f48
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 11 22:57:39 2014 -0300
+
+    Implementación funcional del modo captura con temporizador.
+
+commit 15584cdb112db4fe7ebf7db8f352caf83e376aa2
+Merge: a945c51 0f45bcb
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 11 19:09:12 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit a945c51b521283602b9fa719b064ab43ffe45348
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 11 19:08:59 2014 -0300
+
+    Haciendo la interfaz para auto-capturar cuadros con intervalo.
+
+commit 0f45bcb2b51dc3a4365d2077ffd05eb625738965
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 10 22:11:41 2014 +0100
+
+    actualizando a la version del paquete 0.18
+
+commit 1da5ff00565c2c4a24df4347a10683bc8b445fae
+Author: Fernando Toledo <ragnarok@docksud.com.ar>
+Date:   Mon Mar 10 17:35:26 2014 -0300
+
+    cambiando arquitectura por "all"
+    Agregando autor a copyright
+    eliminando archivos -doc.
+
+commit 462b9414ec125b05c2f5671256ac661402b3bbeb
+Merge: b515569 00bfbd4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 10 15:44:48 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit b5155690be4355a44efe0945e2453515d924e688
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 10 15:44:31 2014 -0300
+
+    cambiando el titulo de huayra-motion en el menu de sistema.
+
+commit 00bfbd44d3748f718e979be30d8dc291d167203c
+Merge: 3f86af7 ff76cf5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 8 22:32:07 2014 -0200
+
+    Merge pull request #1 from fermuch/rewrite-test
+    
+    Rewrite test
+
+commit ff76cf5efc260d2d1671a020f1fd679af755824b
+Author: Fernando Mumbach <fermuch@cryptolab.net>
+Date:   Sat Mar 8 21:23:54 2014 -0300
+
+    acoplado texto de ayuda a Makefile
+
+commit e924d653f574d363ea94bf613a7962c6a2f3ac0a
+Author: Fernando Mumbach <fermuch@cryptolab.net>
+Date:   Sat Mar 8 21:21:19 2014 -0300
+
+    puesta dependencia de nodewebkit en package.json
+
+commit fa9415b391a00daa68b516ff26e8bcd70e29b2c4
+Author: Fernando Mumbach <fermuch@cryptolab.net>
+Date:   Sat Mar 8 21:11:46 2014 -0300
+
+    node test ahora ejecuta node webkit; creada tarea make test
+
+commit 3f86af77d05ff1217f427a6bf8a9da385b88f96f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 5 17:03:24 2014 -0300
+
+    Probando parámetros de configuración para la cámara.
+
+commit 216cba3362d3078919df4c0d748206f1d8a4b6e1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 5 16:51:47 2014 -0300
+
+    Probando camelot dentro del handler de error de camera.
+
+commit b2f6e3997e8702216567ef18cc6ff2f443e82af6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 5 16:51:33 2014 -0300
+
+    Actualizando dependencias para instalar fswebcam, binario que necesita camelot para usar la webcam en tangopoint.
+
+commit c40040d81cae648e1843e666c0e9290077731974
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Mar 5 16:42:20 2014 -0300
+
+    Agregando mensajes de error cuando no se detecta la cámara.
+
+commit 1ae111b9954314305a8407d08d1099ef70272136
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 4 22:52:21 2014 -0300
+
+    arreglo menor. bower hay que instalarlo global.
+
+commit 32318c931897c9866400f2a3bc4ce6279413314f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 4 22:50:18 2014 -0300
+
+    mejorando las instrucciones de instalacion
+
+commit 20a2989c46fcdf3760532c42fec21c1cb0a81f7b
+Merge: ab98c4d b4d97e5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 4 21:35:07 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit ab98c4d15e1b0fcdb91f72ae3dfd7f6b9fb355b6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 4 21:34:07 2014 -0300
+
+    Agregando camelot a la lista de dependencias.
+
+commit 61884db9590537c7e27c2037326b5e87cf943700
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Mar 4 21:34:00 2014 -0300
+
+    Mejorando el menú de captura de cuadros con temporizador.
+
+commit b4d97e5dd54f463121159e6db2fb4c0f58766939
+Author: Alumno <alumno@pepe123.(none)>
+Date:   Mon Mar 3 14:50:45 2014 -0300
+
+    permitiendo que el pograma se pueda abrir indicando la ruta del proyecto que tiene que abrir.
+
+commit 0f072fd89cf8cb087ca2567872d68346f2f75f1d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 3 02:12:55 2014 -0300
+
+    Agregando soporte para exportar GIF, reproduciendo un sonido al borrar y creando el dialogo "acerca de ..."
+
+commit daae37071fdcceb819dc0caa355ae527c1821dca
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Mar 3 02:12:04 2014 -0300
+
+    Borrando capas que ya no se usaban.
+
+commit b723c2c76f5906dc22880c5c936251899771b549
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 20:43:17 2014 -0300
+
+    Agregando un cuadro de dialogo para la opción "acerca de ..."
+
+commit b2af68baf10cd1312386bdad4ff5ed58a0f5e565
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 20:10:36 2014 -0300
+
+    Mejorando la animación de explosión.
+
+commit 1d7a5aadef642755f61519780d4a0592b5f7aa03
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 18:26:37 2014 -0300
+
+    Agregando animación a la eliminación de cuadros y sincronizando la emisión de cuadros cuando se usa la cámara remota.
+
+commit 053cf9eef2d4d39a673cff492a4411842e1a564e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 16:11:23 2014 -0300
+
+    Mejorando el estilo del cuadro actual.
+
+commit 59e8b0a16b1b07d9cd1f0fb524119e9538b734d9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 15:53:46 2014 -0300
+
+    Haciendo una pausa cuando se captura entre cuadro y cuadro.
+
+commit 9d5a1133377c1e0f2f3bb567581cc86caa997204
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 15:41:39 2014 -0300
+
+    Agregando animaciones cuando se elimina o genera un cuadro.
+
+commit af432447ee44c5156717a3a0396841a606553945
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 02:56:44 2014 -0300
+
+    Actualizando archivo ignore.
+
+commit 9c0e0f74acf9e85eaf1831b4f3fbe438430c2a4d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 02:56:03 2014 -0300
+
+    Reparando la acción "guardar".
+
+commit 813c11ddbafd4dc198dcc4ebefd22c66af8927a6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 02:24:28 2014 -0300
+
+    Convirtiendo el menú en un servicio de angulars.
+
+commit 9d38c4d421ecfee98c202b3a08073bd550030b8c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Mar 2 02:24:02 2014 -0300
+
+    Arreglo menor en la lista de proyectos recientes.
+
+commit 3d716171a9d469efbb048e90061bc3600f477c29
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 1 20:14:49 2014 -0300
+
+    Haciendo mas visible el cuadro de animación seleccionado.
+
+commit 8e8d8718b84b779187286ef8d971196d7f0a7d9e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Mar 1 20:10:47 2014 -0300
+
+    Mejorando la pantalla principal.
+
+commit 467b1d2f5c05bdaffa3d8a530eaab4da052f645c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 28 17:24:33 2014 -0300
+
+    Mejorando el circuito de carga de proyecto y guardado.
+
+commit d75c4ef6c39f47a1955e494954bbb15ae5b57bc9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 28 15:22:22 2014 -0300
+
+    Guardando las imágenes de un proyecto en curso con _ al principio.
+
+commit 2117d6d5b9f0272219c984b846dfe2ac924076d4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 28 15:22:05 2014 -0300
+
+    Colocando "sin titulo" en la ventana cuando el proyecto es nuevo.
+
+commit f76a9d21ce4a194886f94827561a1eefd71e4bee
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Feb 20 11:14:52 2014 -0300
+
+    Exportando la animación respetando los FPS definidos.
+
+commit 104a71b3da3dfe6b370c3a1145abe605d2684b03
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 19 22:39:39 2014 -0300
+
+    Implementando la generación de vídeo (ahora funciona con mp4!)
+
+commit ec444101d7039768e99d1ee389adf9a00e2ea319
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 19 16:20:20 2014 -0300
+
+    Implementación inicial de la generación de videos usando ffmpeg.
+
+commit afa3cad42572e96f2df9ac92e7a902d0550271a2
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Feb 18 23:18:48 2014 -0300
+
+    Comenzando a implementar el dialogo para exportar videos.
+
+commit 9e1ee13454b25f9881facae41b0c86823f5b120f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 17:24:08 2014 -0300
+
+    Agregando dialogo modal para capturar el cierre de la ventana.
+
+commit 86fd9b54adbb244d25e6edd3f80a533dc59443d1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 16:51:11 2014 -0300
+
+    Implementando guardado de proyectos y título de la ventana indicando estado guardado.
+
+commit 980fe2c5a825348bfb2fae96427cb888345441f3
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Mon Feb 17 15:13:09 2014 -0300
+
+    Métodos agregados a la clase proyecto: abrir, agregar y guardar cuadro
+
+commit 5611f1971662b637114b8f5ba54d93174521ea44
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 14:16:37 2014 -0300
+
+    Creando el servicio Proyecto.
+
+commit 7c06627097aea293f29c24c8f9aece733b03e778
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 13:59:31 2014 -0300
+
+    Creando el dialogo modal de confirmación al cerrar proyecto.
+
+commit bc0621e82cb48512a4c014d2b0b958558f4e528c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 12:33:35 2014 -0300
+
+    Creando varias de proyecto para el flujo inicial.
+
+commit 52d54a7d23e066730183d627e4a8854d9378e8da
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 11:45:38 2014 -0300
+
+    Moviendo código de paneles al nuevo servicio Paneles.
+
+commit 54b282fd54915393d31cc1c95a6ba1b8cb4e4279
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Mon Feb 17 11:30:35 2014 -0300
+
+    Clase Preferencias se pasó a un Service de Angular
+
+commit bcdfe7167423c21fd8315ed00a931b57ed720ea7
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 08:35:14 2014 -0300
+
+    Comenzando a modularizar el código relativo a los paneles.
+
+commit 7f4bcf72b88f7f627ffa6a35b43a47bea28198c1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 17 00:14:41 2014 -0300
+
+    Mejorando el modulo menú para que exporte una clase como el módulo preferencias.
+
+commit 8929758cb5f90795f69756bb6e46fa7f43f9b559
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:55:34 2014 -0300
+
+    Modularizando livereload.
+
+commit 92d8ff89fda98329c84c3a88ecff014064adfc6b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:31:24 2014 -0300
+
+    Identando app.js
+
+commit bcc1b049bdd62897d1e9120e0a383947b0160136
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:30:29 2014 -0300
+
+    Modularizando filtros y el menú principal.
+
+commit 7f54b84fc7c440e3b0363c36e6c3d65bb5455ff1
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:30:04 2014 -0300
+
+    Agregando modo estricto a preferencias.
+
+commit 65a47cf8bbf8f55de62b1f90f75547a6465aa1f9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:29:39 2014 -0300
+
+    Identando el archivo índex.html
+
+commit 7d7e8720232cdf10319230440eedc8ff95ef946d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Feb 16 23:01:33 2014 -0300
+
+    Modularizando Preferencias.
+
+commit 8e3bcea4609c4ef71d7f8bd8056e9ce9c3fa47f6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 14 17:26:33 2014 -0300
+
+    Comenzando a implementar el dialogo para exportar vídeos.
+
+commit 245201883c926168822a545a79872e2831c4a80a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 14 13:14:02 2014 -0300
+
+    Cambiando el ícono de borrar cuadro.
+
+commit 74b954c7e94c1ecda46b69a179f4cefcf77d791c
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Fri Feb 14 11:34:15 2014 -0300
+
+    Leer cuadros/imágenes desde la ruta relativa al proyecto
+
+commit a7d367b01a550444098221bd6b065d2addd6881e
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Fri Feb 14 10:45:08 2014 -0300
+
+    La carpeta de imágenes de proyecto ahora lleva el mismo nombre que el
+    proyecto
+
+commit e5abf636ab147bfa29385b081a188b80a494d897
+Merge: 9f37ea8 b435b63
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Fri Feb 14 10:29:57 2014 -0300
+
+    Merge branch 'master' of github.com:HuayraLinux/huayra-stopmotion
+
+commit 9f37ea8e216ba634d09b858e2cccf7c592b44935
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 18:31:17 2014 -0300
+
+    Colocando un spinner de prueba a la lista de proyectos.
+
+commit 21ef497702831d7b195859c218ae307d01ab8684
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:24:52 2014 -0300
+
+    Mostrar sólo el nombre de archivo
+
+commit 9a6d049d4f238b1b2bc34efe24d70472f4ac5666
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:22:40 2014 -0300
+
+    Link para abrir proyectos recientes
+
+commit 5819f6b0ab3b2eebda3cee9f178bdaf672dc48cb
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:22:04 2014 -0300
+
+    Re-armado de lógica para guardar proyectos
+
+commit 1380030bc24a2b0c680387e2d248de783262ad4d
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:08:16 2014 -0300
+
+    Arreglo del serializador de JSON
+
+commit 4697ae9245714fbf51c60f2ad06ff0a380363fca
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 14:41:14 2014 -0300
+
+    - Clase para manejo de preferencias
+    - Guardado de proyectos recientes
+
+commit c8f553f830584b561886995f73f4b479fed370bd
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 12:51:00 2014 -0300
+
+    definiendo la ruta de instalacion de los modulos bower.
+
+commit b435b637d16dc303303a283f26aaf364cbf12986
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 18:31:17 2014 -0300
+
+    Colocando un spinner de prueba a la lista de proyectos.
+
+commit 074c3a7633b0e761bbdab9031a79b1e5e6670137
+Merge: 6b708e3 bf012c5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 17:25:59 2014 -0300
+
+    Merge remote-tracking branch 'origin/proyectos_recientes'
+
+commit bf012c56f5afb03a3cc1cdb832b24a9f4ce9e83e
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:24:52 2014 -0300
+
+    Mostrar sólo el nombre de archivo
+
+commit 2a82e70f0824286770b089a8c2c2b0a91cd4df1d
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:22:40 2014 -0300
+
+    Link para abrir proyectos recientes
+
+commit aaacfa6987d9f545ad1dceab3f0ba1313dfa5fec
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:22:04 2014 -0300
+
+    Re-armado de lógica para guardar proyectos
+
+commit 8db527cee045de75a2827ef80539fcf3f0116338
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 15:08:16 2014 -0300
+
+    Arreglo del serializador de JSON
+
+commit ccdb67653a54e47dcc12311e6e101f53d91ad6b4
+Author: Ignacio Benedetti <tranceway@gmail.com>
+Date:   Wed Feb 12 14:41:14 2014 -0300
+
+    - Clase para manejo de preferencias
+    - Guardado de proyectos recientes
+
+commit 6b708e36e6f06d474e04aada38765e34fb803b74
+Merge: 80e291e 80a8a76
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 12:58:35 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 80e291e499eb9bbe4b643ae19ab4ccab92809f33
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Feb 12 12:51:00 2014 -0300
+
+    definiendo la ruta de instalacion de los modulos bower.
+
+commit 80a8a76bf7e7da527ccd0687a20ed6226c0274f8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Tue Feb 11 18:36:44 2014 -0300
+
+    cambiando la ruta de angular-ui porque no estaba cargando
+
+commit fd53015787ac8057823e686c0f7a6b65e6a0d160
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Feb 10 16:54:37 2014 -0300
+
+    Arreglando la URL para acceder a compartir la cámara.
+
+commit 04d5454e762bf82cb91e8a7626e3207fd3809a35
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Feb 8 22:26:44 2014 -0300
+
+    Actualizando el ícono de la aplicación.
+
+commit bc512762b7e117b2ad27c5e17b0d7a7d2dbb1574
+Merge: 73f08ef da4c777
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Feb 7 20:09:45 2014 +0100
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 73f08efcc2fa585e04beb11cc2c3d9e1b1c7c38d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Feb 6 20:35:41 2014 +0100
+
+    actualizando la informacion para generar el paquete de huayra
+
+commit da4c777fd206e50472dec932b7e07733ab02ea1b
+Merge: 8b65361 9c95b95
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 27 13:12:54 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit 8b653617d77a36ab12948d1e4bf4aaedcaf64050
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 27 13:12:28 2014 -0300
+
+    cambiando el link de descarga
+
+commit 9c95b953727f5b1da330fb186b685c66f9d2c383
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 23 20:28:18 2014 +0100
+
+    arreglos menores al generar el paquete.'
+
+commit e0df6a748d231fcf301a0dd8ed3d4d2b2372f36b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 23 20:23:46 2014 +0100
+
+    actualizando scripts de empaquetado.
+
+commit 9cc0f8475f46972410acb143b955e9e6cfc79b9d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 23 19:59:24 2014 +0100
+
+    actualizando script para generar el paquete
+
+commit a2fcdff04544e9f90bca59496cd82135a48e819b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Jan 23 15:20:33 2014 -0300
+
+    Poniendo un límite de 30 cuadros por segundos como máximo.
+
+commit 70e00167f2b102e14e991bb2a4c65c84094584f5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 22 17:21:15 2014 -0300
+
+    Arreglos menores.
+
+commit 31a13a5ced314ff3f4610cc278e7dd9514e285fe
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 22 15:57:21 2014 -0300
+
+    Modificando el atajo para abrir las herramientas de desarrollo. Ahora no requiren de angulars.
+
+commit bb4e1deb324928a55834e4c37035fe03167e8e4b
+Merge: c5fe241 6dbb791
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 22 14:17:37 2014 -0300
+
+    Merge branch 'master' of https://github.com/HuayraLinux/huayra-stopmotion
+
+commit c5fe2413d18dfac8ad0762be0b51fd1b69b9acfe
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 22 14:17:24 2014 -0300
+
+    Agregando un botón para abrir las herramientas de desarrollo desde la pantalla principal..
+
+commit 6dbb791610b780d8060b4bb47e6fa5c372cdc49b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 20 21:29:29 2014 +0100
+
+    actualizando informacion de dependencias.
+
+commit fc374e6e30cc623d5a1dc64dbf4db4017c1b2951
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 20 20:42:43 2014 +0100
+
+    actualizando
+
+commit 177f1dea7905c0a28fca30dd3bc4d6aee6d78d19
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 20 19:47:14 2014 +0100
+
+    Creando estructura para generar los paquetes .deb
+
+commit 6082400e999b0109a26bca9648e0477079889a33
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 20 14:42:07 2014 -0300
+
+    Agregando script para instalar dependencias y angular-ui-bootstrap-bower
+
+commit 1a9009ce1239021b0310db82dc9c11c4b110b131
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 15 13:27:53 2014 -0300
+
+    Implementando acceso remoto.
+
+commit edabebef9003bc0e396b01edcdff09c98b5ce18d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 15 12:27:49 2014 -0300
+
+    Mejorando el modo remoto para que arme una URL con el hostname y el puerto.
+
+commit 20782813f64560a5b7f4dd3934325965cf512075
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 15 12:03:08 2014 -0300
+
+    Agregando opción para reproducir video y controles para controlar los cuadros por segundo.
+
+commit f5c3a08d52d9c51e6034009ed90d2eac4a173e52
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 15 11:33:32 2014 -0300
+
+    Haciendo que el cuadro de animación nuevo aparezca a la derecha del cuadro actual.
+
+commit 81a1d17e1329e97984aa8dff0bf82120f02e25ef
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 13 17:08:04 2014 -0300
+
+    Agregando opción para exportar video en el menú tradicional.
+
+commit 3fba6c8149edb3f03c62ba90a94dd436a059c873
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 13 16:54:58 2014 -0300
+
+    Cambiando la tecla "backspace" por "x"
+
+commit e4d46b78b4c3689eff6455af5cd772ee98c22539
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 13 16:47:56 2014 -0300
+
+    Agregando un botón a la izquierda de cada cuadro para que se puedan borrar cuadros de animación.
+
+commit 2f88317b94b9de23a01c3563126694228468b2cf
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 13 16:22:00 2014 -0300
+
+    Agregando atajo de teclado para borrar el cuadro actual.
+
+commit 5326f7c0bbead110b8b1ff6a03aa9c7d25dd3e89
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Jan 13 16:07:08 2014 -0300
+
+    Quitando los dos paneles que no se utilizaban y agregando opción para salir desde el menú.
+
+commit fb88fdd3389c8f086d4eaf7b080b3f8c2071374d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 8 12:31:07 2014 -0300
+
+    Arreglos menores en la estructura html.
+
+commit 4dfee9a26b10efb48ea3fdbae79f70beadbb288b
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Wed Jan 8 12:30:46 2014 -0300
+
+    Reparando el bug del tamaño de las imágenes usando una webcam.
+
+commit 352324e7ca3c6a77f0bae63a1bf135dbf980e869
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Jan 3 15:16:53 2014 -0300
+
+    Agregando la opción 'abrir' en la barra de menú principal.
+
+commit 7580d157b519629b6967a011b14eb140ae3f092d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Jan 3 15:10:53 2014 -0300
+
+    Implementando carga de archivos.
+
+commit e4fd0b3f0fe8b7ccc79ae946ea5757fa352211b3
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Jan 3 14:56:08 2014 -0300
+
+    Implementando guardar proyecto.
+
+commit d81e4c60a0cd93b364bb6f682b370501872b6e6d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Jan 3 12:37:01 2014 -0300
+
+    Adaptando los layers para que se ajusten al tamaño del contenedor.
+
+commit b84c0cbf53e7cfa8b13a94d3bf629ee75e9b17a2
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Jan 3 09:20:54 2014 -0300
+
+    Instalando dependencias faltantes.
+
+commit 1a47ea24701784f879b12c15a32e434ae8893410
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 30 12:11:54 2013 -0300
+
+    Haciendo configurable el acceso remoto.
+
+commit 2836d66080308047e064f87fb48c4098fb9bc8e6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Dec 29 19:09:34 2013 -0300
+
+    Implementación inicial para compartir camara.
+
+commit bf5db7690848193a152c5b5c613322df5cb1613a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Dec 29 17:59:17 2013 -0300
+
+    Agregando tab para previsualizar la animación.
+
+commit 2d9665d9a93e8f14fc579aa03b68a3b53224da70
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Dec 29 17:28:30 2013 -0300
+
+    Comenzando a implementar el dialogo para abrir proyectos y haciendo que el cuadro cebolla sea siempre el cuadro seleccionado.
+
+commit 2fcbd6e02151df2d209ce7633b255856e46c9888
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sun Dec 29 16:47:11 2013 -0300
+
+    Mejorando el asistente inicial y modificando los atajos para avanzar de cuadro y reiniciar.
+
+commit da4a3662384d583014ff932c2919d09920300fc4
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 18:32:15 2013 -0300
+
+    Quitando barras de scroll en el contenedor de video.
+
+commit 9751fb6955e2a1839bf66ae23c885732ce01b3b8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 17:04:07 2013 -0300
+
+    Reparando el tamaño de las capas sobre el video para que se ajusten automáticamente.
+
+commit e6e7609c32d0f2c8a4c48f00d47f069d75c5c92f
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 02:17:14 2013 -0300
+
+    Implementando livereload.
+
+commit 10dc1bda01e7892707a29f46f606449b9c06fbbd
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 02:17:02 2013 -0300
+
+    Haciendo que la grilla sea semi invisible al principio.
+
+commit 1b6d318702df63dd1559b49c38256b765fdae600
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 02:16:30 2013 -0300
+
+    instalando gaze para que la aplicacion soporte livereload.
+
+commit c03f50793cf0963e387dd01de7d3764bff5991b9
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 02:16:14 2013 -0300
+
+    Quitando referencias a google fonts.
+
+commit 992d3c8bc64e9c25dbcddccd0d5be5009bac78b8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Sat Dec 28 01:57:20 2013 -0300
+
+    Mejorando la pantalla de ayuda.
+
+commit f3bff7ba7c7c20383dd8e31a5e969375fc07e4ce
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 16:00:26 2013 -0300
+
+    Agregando una captura de pantalla nueva
+
+commit 1789869e292cdc5370493f6e6e21cb3dec1f8359
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 15:48:42 2013 -0300
+
+    Deshabilitando live-reload para hacer el deploy.
+
+commit 4c51c8eea391d6aec32d6c2f36217503f6ed6d4a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 14:14:42 2013 -0300
+
+    Reparando el overlay de grilla con filas y columnas.
+
+commit 91db9d2cc7f8978ec05e576c118dfa4e58e12405
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 13:46:38 2013 -0300
+
+    Agregando un botón para mostrar u ocultar la ayuda.
+
+commit 3291735a139233acc7f276390517e3bfc1f9bd1c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 13:36:30 2013 -0300
+
+    Mejorando la pantalla inicial.
+
+commit 92c28ed541f1193548d4536f49c7c3bf3732c0ee
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 13:16:42 2013 -0300
+
+    Comenzando a crear el asistente inicial en reemplazo del panel de carga inicial.
+
+commit 937f2de3118a1abeda246ac8213c30a3d603f25e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 12:56:17 2013 -0300
+
+    Agregando un botón para mostrar u ocultar el panel lateral.
+
+commit b4c2b2967717c5695453c5011460c70745496aeb
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 12:15:24 2013 -0300
+
+    Agregando livereload
+
+commit b1d5771fdd800e723a828b326280f5fd5faac201
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 27 12:15:06 2013 -0300
+
+    Agregando un fondo al selector de paginas en la linea de tiempo.
+
+commit fb87dc2be86f1a689fc56e4bd34629bee8d19fed
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 20 16:32:16 2013 -0300
+
+    Comenzando a crear la capa de grilla con filas y columnas variables.
+
+commit 346683a0d5ae474c54f9fc019cd9992547d1d8ce
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 20 15:50:41 2013 -0300
+
+    Reemplazando slides angular por slides traducionales y moviendo el deslizador de capa cebolla a otra sección.
+
+commit 54cfc2d21190b7a2103ec56e2fb51f801a28c924
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Dec 19 13:43:26 2013 -0300
+
+    Mostrando los links de descarga en el archivo makefile.
+
+commit cdfada6386e0c8cfb8ca2dfa3e07cb92d09b484e
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Thu Dec 19 13:43:14 2013 -0300
+
+    Automatizando la forma de subir versiones nuevas al servidor.
+
+commit 429b6a4d3fda2b9565776788874872c19affe4a8
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 16:38:51 2013 -0300
+
+    Mejorando el archivo README.
+
+commit a59ec28b0f8f3bbe31a9d018beec4f67fa843972
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 15:50:03 2013 -0300
+
+    Arreglos menores en los tabs.
+
+commit 6801ec6b0ca57337bb81a63337713efa9faa544a
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 15:49:47 2013 -0300
+
+    Adaptando el tamaño de la ventana principal.
+
+commit d4f958f76385a2c047c0aa9a3608814f58ca0a0d
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 15:38:22 2013 -0300
+
+    Haciendo que la barra de controles para capturar cuadros se adapte al tamaño del contenedor.
+
+commit 0a2158f7719f4fbcc984fcbecea592a301814312
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 15:29:22 2013 -0300
+
+    Quitando el header de la aplicación.
+
+commit f674c2ebe9736b51f73f2ef4c377d7ce1fbdd6b6
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 14:59:41 2013 -0300
+
+    Reparando el paginador cuando la ventana cambia de tamaño.
+
+commit fec9bae2ff4a6db8e6327846d569de463bfa1f3c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 14:42:17 2013 -0300
+
+    Arreglos para hacer que el video se adapte al tamaño del contenedor.
+
+commit 71d93b851947799d60d5e8fbb68c8a1d0d8de902
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 14:36:37 2013 -0300
+
+    Habilitando la barra depuracion.
+
+commit a002aaec4b4585205a2ec980ceeb900048e48b6c
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Mon Dec 16 14:36:24 2013 -0300
+
+    Posicionando el paginador de la linea de tiempo en una zona visible de pantalla.
+
+commit 295d4275451649a2b16766935d6b8aee2bd640f5
+Author: Hugo Ruscitti <hugoruscitti@gmail.com>
+Date:   Fri Dec 13 14:53:50 2013 -0300
+
+    Commit inicial desde bitbucket.
+
+commit 08fe1e8e990122559b5df6f8de5e58d208edacea
+Author: Héctor Sanchez <hsanchez@pressenter.com.ar>
+Date:   Thu Dec 5 08:23:39 2013 -0800
+
+    Initial commit
